@@ -1,1 +1,1 @@
-# Jellyfin Posters I made
+# Jellyfin Posters
