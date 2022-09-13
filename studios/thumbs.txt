@@ -70,6 +70,7 @@ Kanal 5
 Kanal 9
 KiKa
 MBS
+MeTV
 Movistar+
 MTV
 National Geographic
@@ -96,6 +97,7 @@ Shudder
 Sjuan
 Sky
 Sky Atlantic
+Sky One
 Sky Max
 Spike
 Starz
@@ -127,12 +129,20 @@ TV8
 TVNZ 1
 TVNZ 2
 Univision
+Unterföhring
 UPN
 USA Network
 VH1
 Viaplay
 Vice TV
 Viceland
-WOWOW Prime
+Wanda Films
+Warner Bros
+Warner Brothers
+Warner Independent Pictures
+Walt Disney Feature Animation
+Walt Disney Television Animation
+WE tv
+WOWOW
 YTV
 ZDF
