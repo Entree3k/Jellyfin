@@ -2,6 +2,7 @@
 
 This project contains an archive of studio thumbnail and poster images for use with Jellyfin via the "Studio Images" Jellyfin plugin.
 
+[![Buy me a slice of pizza](https://i.imgur.com/eFZcvUq.png)](https://www.buymeacoffee.com/Entree)
 
 ## Usage
 
