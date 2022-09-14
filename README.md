@@ -2,7 +2,6 @@
 
 This project contains an archive of studio thumbnail and poster images for use with Jellyfin via the "Studio Images" Jellyfin plugin.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Entree" data-color="#FF5F5F" data-emoji="🍕"  data-font="Inter" data-text="Buy me a slice of pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ## Usage
 
