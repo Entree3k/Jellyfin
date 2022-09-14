@@ -1,3 +1,10 @@
+#0
+#Vamos
+A&E
+ABC
+ABC News
+ABC News 24
+Adult Swim
 Amazon
 AMC
 AMC+
@@ -19,6 +26,7 @@ BBC Two
 BBC World News
 BET
 Bravo
+Canal J
 C More
 Canal+
 Cartoon Network
@@ -30,6 +38,7 @@ Channel 4
 Channel 5
 Chiba TV
 Cinemax
+CITV
 Comedy Central
 Crave
 Crunchyroll
@@ -50,13 +59,6 @@ Freeform
 Fuji TV
 FX
 FXX
-#0
-#Vamos
-A&E
-ABC
-ABC News
-ABC News 24
-Adult Swim
 Hallmark Channel
 HBO
 HBO Max
