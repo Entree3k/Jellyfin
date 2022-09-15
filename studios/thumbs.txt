@@ -1,7 +1,9 @@
 #0
 #Vamos
+7TWO
 A&E
 ABC
+AMC Family
 ABC News
 ABC News 24
 Adult Swim
@@ -32,6 +34,7 @@ Canal+
 Cartoon Network
 CBBC
 CBC
+CBC Gem
 CBS
 CBS All Access
 Channel 4
@@ -60,6 +63,12 @@ Facebook Watch
 Food Network
 FOX
 Fox Kids
+France Ô
+France 2
+France 3
+France 4
+France 5
+France.tv
 Freeform
 Fuji TV
 FX
@@ -77,13 +86,17 @@ Kanal 11
 Kanal 5
 Kanal 9
 KiKa
+M6
 MBS
 MeTV
+Mondo TV
 Movistar+
 MTV
 National Geographic
 NBC
+NDR
 Netflix
+Network Ten
 NHK
 Nick Jr
 Nickelodeon
@@ -117,6 +130,7 @@ TBS
 Telemundo
 Teletoon
 Tencent Video
+TF1
 The CW
 The Roku Channel
 The WB
@@ -124,10 +138,12 @@ TLC
 TNT
 Tokyo MX
 Toonami
+Toon Disney
 Travel Channel
 truTV
 tv asahi
 TV Land
+TVOntario
 TV Tokyo
 TV12
 TV3 Sverige
@@ -136,6 +152,7 @@ TV6
 TV8
 TVNZ 1
 TVNZ 2
+Unis TV
 Univision
 Unterföhring
 UPN
@@ -152,5 +169,8 @@ Walt Disney Feature Animation
 Walt Disney Television Animation
 WE tv
 WOWOW
+Youtube
+Youtube Premium
 YTV
 ZDF
+ZDFneo
