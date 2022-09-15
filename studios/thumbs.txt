@@ -71,6 +71,7 @@ France 5
 France.tv
 Freeform
 Fuji TV
+Funimation
 FX
 FXX
 Hallmark Channel
@@ -150,8 +151,12 @@ TV3 Sverige
 TV4
 TV6
 TV8
+TV Hokkaido
 TVNZ 1
 TVNZ 2
+TV Osaka
+TV Setouchi
+TVQ
 Unis TV
 Univision
 Unterföhring
