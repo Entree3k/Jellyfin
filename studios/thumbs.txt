@@ -65,6 +65,7 @@ Facebook Watch
 Food Network
 FOX
 Fox Kids
+FOX Sports
 France Ô
 France 2
 France 3
@@ -134,6 +135,7 @@ Sky
 Sky Atlantic
 Sky One
 Sky Max
+Sky Sports
 Sony Liv
 Spike
 Starz
