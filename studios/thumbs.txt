@@ -54,11 +54,13 @@ Disney Channel
 Disney Junior
 Disney XD
 Disney+
+Disney+ Hotstar
 DR1
 Dropout
 E!
 Eleven
 Epix
+Eurosport
 Facebook Watch
 Food Network
 FOX
@@ -107,12 +109,20 @@ Nicktoons
 Nine Network
 Nippon TV
 NRK1
+NRK2
+NRK3
+ORF
+OUFtivi
 Paramount Network
 Paramount+
 PBS
 Peacock
+Playhouse Disney
 Pop
 Prime Video
+Rai Gulp
+RBB Fernsehen
+RTL
 SBS
 Science Channel
 Seven Network
@@ -123,6 +133,7 @@ Sky
 Sky Atlantic
 Sky One
 Sky Max
+Sony Liv
 Spike
 Starz
 STV
@@ -160,6 +171,7 @@ TV Osaka
 TV Setouchi
 TVQ
 Unis TV
+Universal Kids
 Univision
 Unterföhring
 UPN
@@ -168,6 +180,7 @@ VH1
 Viaplay
 Vice TV
 Viceland
+VOOT
 Wanda Films
 Warner Bros
 Warner Brothers
