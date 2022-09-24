@@ -8,6 +8,7 @@ ABC News
 ABC News 24
 Adult Swim
 Amazon
+Amazon Freevee
 Amazon Prime Video
 AMC
 AMC+
