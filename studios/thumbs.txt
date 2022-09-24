@@ -8,6 +8,7 @@ ABC News
 ABC News 24
 Adult Swim
 Amazon
+Amazon Prime Video
 AMC
 AMC+
 Animal Planet
@@ -121,7 +122,6 @@ PBS
 Peacock
 Playhouse Disney
 Pop
-Prime Video
 Rai Gulp
 RBB Fernsehen
 RTL
