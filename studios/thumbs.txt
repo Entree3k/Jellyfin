@@ -62,6 +62,7 @@ Dropout
 E!
 Eleven
 Epix
+ESPN
 Eurosport
 Facebook Watch
 Food Network
@@ -78,7 +79,9 @@ Freeform
 Fuji TV
 Funimation
 FX
+FXM
 FXX
+G4
 Hallmark Channel
 HBO
 HBO Max
@@ -87,6 +90,10 @@ History
 Hub Network
 Hulu
 IFC
+IFC Films
+ITV
+ITV1
+ITV2
 Investigation Discovery
 ION Television
 Kanal 11
@@ -155,6 +162,7 @@ The Roku Channel
 The WB
 TLC
 TNT
+Tokyo Broadcasting System (TBS)
 Tokyo MX
 Toonami
 Toon Disney
