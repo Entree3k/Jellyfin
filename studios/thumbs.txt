@@ -7,6 +7,7 @@ AMC Family
 ABC News
 ABC News 24
 Adult Swim
+All 4
 Amazon
 Amazon Freevee
 Amazon Prime Video
@@ -14,12 +15,16 @@ AMC
 AMC+
 Animal Planet
 Anime Digital Network
+Antena 3
 Apple TV+
 ARD
 Arte
 AT-X
+Atresplayer
+Atresplayer Premium
 Axess TV
 BBC
+BBC Alba
 BBC America
 BBC Earth
 BBC Four
@@ -35,7 +40,8 @@ C More
 Canal+
 Cartoon Network
 CBBC
-CBC 
+CBC
+CBC (CA)
 CBC Gem
 CBS
 CBS All Access
@@ -50,8 +56,10 @@ Crunchyroll
 CTV
 Das Erste
 DC Universe
+discovery+
 Discovery
 Discovery Family
+Discovery Science
 Disney Channel
 Disney Junior
 Disney XD
@@ -67,6 +75,7 @@ Eurosport
 Facebook Watch
 Food Network
 FOX
+FOX España
 Fox Kids
 FOX Sports
 France Ô
@@ -77,6 +86,7 @@ France 5
 France.tv
 Freeform
 Fuji TV
+Fuse
 Funimation
 FX
 FXM
@@ -84,7 +94,13 @@ FXX
 G4
 Hallmark Channel
 HBO
+HBO Asia
+HBO Canada
+HBO España
+HBO Europe
+HBO Latin America
 HBO Max
+HBO Nordic
 HGTV
 History
 Hub Network
@@ -107,7 +123,10 @@ MeTV
 Mondo TV
 Movistar+
 MTV
+National Educational Television
 National Geographic
+National Geographic Channel
+National Geographic India
 NBC
 NDR
 Netflix
@@ -132,6 +151,7 @@ Playhouse Disney
 Pop
 Rai Gulp
 RBB Fernsehen
+Really
 RTL
 SBS
 Science Channel
@@ -146,6 +166,7 @@ Sky One
 Sky Max
 Sky Sports
 Sony Liv
+Space
 Spike
 Starz
 STV
