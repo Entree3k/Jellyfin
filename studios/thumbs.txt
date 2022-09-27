@@ -4,6 +4,7 @@
 A&E
 ABC
 ABC (JA)
+ABC (JP)
 AMC Family
 ABC News
 ABC News 24
@@ -234,5 +235,6 @@ Yahoo! Screen
 Youtube
 Youtube Premium
 YTV
+YTV (JP)
 ZDF
 ZDFneo
