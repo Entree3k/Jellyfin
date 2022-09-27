@@ -3,6 +3,7 @@
 7TWO
 A&E
 ABC
+ABC (JA)
 AMC Family
 ABC News
 ABC News 24
@@ -34,6 +35,7 @@ BBC Three
 BBC Two
 BBC World News
 BET
+bilibili
 Bravo
 Canal J
 C More
@@ -85,6 +87,7 @@ France 4
 France 5
 France.tv
 Freeform
+Frontier Works
 Fuji TV
 Fuse
 Funimation
@@ -183,6 +186,7 @@ The Roku Channel
 The WB
 The Weather Channel
 TLC
+TNK
 TNT
 Tokyo Broadcasting System (TBS)
 Tokyo MX
@@ -191,6 +195,7 @@ Toon Disney
 Travel Channel
 truTV
 tv asahi
+tvk
 TV Land
 TVOntario
 TV Tokyo
@@ -224,6 +229,7 @@ Walt Disney Feature Animation
 Walt Disney Television Animation
 WE tv
 WOWOW
+WOWOW Prime
 Yahoo! Screen
 Youtube
 Youtube Premium
