@@ -70,6 +70,7 @@ Disney+
 Disney+ Hotstar
 DR1
 Dropout
+één
 E!
 E4 (GB)
 E4
@@ -98,6 +99,7 @@ FX
 FXM
 FXX
 G4
+GoPlay
 Hallmark Channel
 HBO
 HBO Asia
@@ -153,6 +155,7 @@ Paramount Network
 Paramount+
 PBS
 Peacock
+Play4
 Playhouse Disney
 Pop
 Rai Gulp
@@ -224,6 +227,10 @@ Viaplay
 Vice TV
 Viceland
 VOOT
+vtm
+VTM GO
+VRT
+VRT MAX
 Wanda Films
 Warner Bros
 Warner Brothers
