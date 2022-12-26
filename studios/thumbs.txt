@@ -46,6 +46,7 @@ CBBC
 CBC
 CBC (CA)
 CBC Gem
+CBC Television
 CBS
 CBS All Access
 Channel 4
@@ -101,6 +102,7 @@ FX
 FXM
 FXX
 G4
+Global TV
 GoPlay
 Hallmark Channel
 HBO
@@ -167,6 +169,7 @@ RTL
 SBS
 Science Channel
 Seven Network
+Showcase
 Showtime
 Shudder
 Sjuan
