@@ -214,6 +214,8 @@ TV Land
 TVOntario
 TV Tokyo
 TV12
+TV2 (NZ)
+TV2(NZ)
 TV3 Sverige
 TV4
 TV6
@@ -221,6 +223,7 @@ TV8
 TV Hokkaido
 TVNZ 1
 TVNZ 2
+TVNZ2
 TV Osaka
 TV Setouchi
 TVQ
