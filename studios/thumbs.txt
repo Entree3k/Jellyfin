@@ -170,6 +170,7 @@ RTL
 SBS
 Science Channel
 Seven Network
+Service Electric Network
 Showcase
 Showtime
 Shudder
