@@ -61,6 +61,7 @@ Crave
 Crunchyroll
 CTV
 Das Erste
+Dave
 DC Universe
 discovery+
 Discovery
@@ -132,12 +133,14 @@ Kanal 5
 Kanal 9
 KiKa
 M6
+Max
 MBC
 MBS
 MeTV
 Mondo TV
 Movistar+
 MTV
+MTV2
 National Educational Television
 National Geographic
 National Geographic Channel
@@ -161,6 +164,7 @@ OUFtivi
 Paramount Network
 Paramount+
 PBS
+PBS Kids
 Peacock
 Play4
 Playhouse Disney
