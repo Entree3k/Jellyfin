@@ -38,6 +38,7 @@ BBC Two
 BBC World News
 BET
 bilibili
+BS4
 Bravo
 Canal J
 C More
