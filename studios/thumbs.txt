@@ -39,6 +39,8 @@ BBC World News
 BET
 bilibili
 BS4
+BS11
+BS Fuji
 Bravo
 Canal J
 C More
@@ -64,6 +66,7 @@ CTV
 Das Erste
 Dave
 DC Universe
+Decades
 discovery+
 Discovery
 Discovery Family
@@ -79,6 +82,7 @@ Dropout
 E!
 E4 (GB)
 E4
+Ehime Broadcasting
 Eleven
 Epix
 ESPN
@@ -99,16 +103,21 @@ France.tv
 Freeform
 Frontier Works
 Fuji TV
+Fukui TV
+Fukushima TV
 Fuse
+Fusion
 Funimation
 FUNimation Entertainment
 FX
 FXM
 FXX
 G4
+Gametap
 Global TV
 Gold
 GoPlay
+Gunma TV
 Hallmark Channel
 HBO
 HBO Asia
@@ -216,6 +225,7 @@ Tokyo MX
 Toonami
 Toon Disney
 Travel Channel
+Treehouse TV
 truTV
 tv asahi
 tvk
