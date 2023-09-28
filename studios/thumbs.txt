@@ -132,20 +132,27 @@ HBO Max
 HBO Nordic
 HGTV
 History
+Hokkaido Cultural Broadcasting
 Hub Network
 Hulu
 IFC
 IFC Films
+Ishikawa TV
 ITV
 ITV1
 ITV2
 Investigation Discovery
 ION Television
+Iwate Menkoi Television
 Kanal 11
 Kanal 5
 Kanal 9
+Kansai TV
 KiKa
+Kochi Sun Sun Broadcasting
+KTS
 M6
+Manhattan Neighborhood Network
 Max
 MBC
 MBS
@@ -165,6 +172,8 @@ NDR
 Netflix
 Network Ten
 NHK
+NHK G
+NIB
 Nick Jr
 Nickelodeon
 Nickelodeon(1)
