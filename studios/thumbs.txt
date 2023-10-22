@@ -4,31 +4,38 @@
 7TWO
 A&E
 ABC
+ABC (AU)
 ABC (JA)
 ABC (JP)
-AMC Family
+ABC (US)
+ABC Family
 ABC News
 ABC News 24
 ABC TV
-Adult Swim
+ABC
+ABS (US)
 AKT
+AMC+
+AMC
+ARD
+AT-X (JP)
+AT-X
+Adult Swim
 All 4
-Amazon
 Amazon Freevee
 Amazon Prime Video
-AMC
-AMC+
+Amazon
 Animal Planet
 Anime Digital Network
 Antena 3
 Apple TV+
-ARD
 Arte
-AT-X
-Atresplayer
 Atresplayer Premium
+Atresplayer
 Axess TV
-BBC
+BBC 1
+BBC 2
+BBC 3
 BBC Alba
 BBC America
 BBC Earth
@@ -38,91 +45,105 @@ BBC Scotland
 BBC Three
 BBC Two
 BBC World News
+BBC-1
+BBC-2
+BBC-3
+BBC-4
+BBC
+BBC1
+BBC2
+BBC3
+BBC4
 BET
-bilibili
-BS4
-BS11
 BS Fuji
+BS11
+BS4
 Bravo
-Canal J
 C More
-Canal+
-Cartoon Network
 CBBC
-CBC
 CBC (CA)
 CBC Gem
 CBC Television
-CBS
+CBC
 CBS All Access
+CBS
+CITV
+CNN
+CTV
+Canal J
+Canal+
+Cartoon Network
 Channel 4
 Channel 5
 Chiba TV
 Cinemax
-CITV
-CNN
 Comedy Central
 Crave
 Crunchyroll
-CTV
+DC Universe
+DR1
 Das Erste
 Dave
-DC Universe
 Decades
-discovery+
-Discovery
+Discovery Channel
 Discovery Family
 Discovery Science
+Discovery
 Disney Channel
 Disney Junior
 Disney XD
-Disney+
 Disney+ Hotstar
-DR1
+Disney+
 Dropout
-één
 E!
 E4 (GB)
 E4
+ESPN
 Ehime Broadcasting
 Eleven
 Epix
-ESPN
 Eurosport
 F1TV
-Facebook Watch
-Food Network
+FOX (US)
+Fox España
 FOX
-FOX España
+FUNimation Entertainment
+FUNimation
+FX (US)
+FX Channel
+FX Productions
+FX
+FXM
+FXX
+Facebook Watch
+Five
+Food Network
 Fox Kids
-FOX Sports
-France Ô
+Fox Sports
 France 2
+France 24 (FR)
 France 24
 France 3
 France 4
 France 5
+France Ô
 France.tv
 Freeform
 Frontier Works
 Fuji TV
 Fukui TV
 Fukushima TV
+Funimation Channel
+Funimation
 Fuse
 Fusion
-Funimation
-FUNimation Entertainment
-FX
-FXM
-FXX
 G4
-Gametap
+GameTap
 Global TV
-Gold
+GoPlay (BE)
 GoPlay
+Gold
 Gunma TV
-Hallmark Channel
-HBO
 HBO Asia
 HBO Canada
 HBO España
@@ -130,75 +151,89 @@ HBO Europe
 HBO Latin America
 HBO Max
 HBO Nordic
+HBO
 HGTV
+Hallmark Channel
+History (CA)
 History
 Hokkaido Cultural Broadcasting
 Hub Network
+Hulu Original Series
 Hulu
-IFC
 IFC Films
-Ishikawa TV
+IFC
+IGN
+ION Television
 ITV
 ITV1
 ITV2
 Investigation Discovery
-ION Television
+Ishikawa TV
 Iwate Menkoi Television
+KTS
 Kanal 11
 Kanal 5
 Kanal 9
 Kansai TV
 KiKa
 Kochi Sun Sun Broadcasting
-KTS
 M6
-Manhattan Neighborhood Network
-Max
 MBC
 MBS
-MeTV
 MGM+
-Mondo TV
-Movistar+
+MTV (US)
 MTV
 MTV2
-National Educational Television
-National Geographic
-National Geographic Channel
-National Geographic India
+Manhattan Neighborhood Network
+Max
+MeTV
+Mondo TV
+Movistar+
 NBC
 NBS
 NDR
-Netflix
-Network Ten
-NHK
 NHK G
+NHK
 NIB
-Nick Jr
-Nickelodeon
-Nickelodeon(1)
-Nicktoons
-Nine Network
-Nippon TV
 NRK1
 NRK2
 NRK3
+NTV (JP)
+National Educational Television
+National Geographic Channel
+National Geographic India
+National Geographic
+Netflix
+Network Ten
+Nick Jr
+Nickelodeon
+Nicktoons
+Nine Network
+Nippon TV
+Nippon Television Network
+Nippon Television Network Corporation (NTV)
+Nippon Television Network Corporation
+Norsk Rikskringkasting (NRK)
 ORF
 OUFtivi
+PBS Kibs
+PBS
 Paramount Network
 Paramount+
-PBS
-PBS Kids
 Peacock
+Play4 (BE)
 Play4
 Playhouse Disney
 Pop
 Prime Video
-Rai Gulp
 RBB Fernsehen
-Really
 RTL
+Rai Gulp
+Really
 SBS
+STV
+SVT1
+SVT2
 Science Channel
 Service Electric Network
 Seven Network
@@ -206,88 +241,102 @@ Showcase
 Showtime
 Shudder
 Sjuan
-Sky
+Sky Atlantic (UK)
 Sky Atlantic
 Sky Deutschland
-Sky One
 Sky Max
+Sky One
 Sky Sports
+Sky
 Sony Liv
 Space
+Spike TV
 Spike
-Stan
 Stan (AU)
+Stan
 Starz
-STV
-SVT1
-SVT2
 Syfy
 TBS
-Telemundo
-Teletoon
-Tencent Video
 TF1
-The CW
-The Roku Channel
-The WB
-The Weather Channel
 TLC
 TNK
 TNT
-Tokyo Broadcasting System (TBS)
-Tokyo MX
-Toonami
-Toon Disney
-Travel Channel
-Treehouse TV
-truTV
-tv asahi
-tvk
+TV Aichi
+TV Hokkaido
 TV Land
-TVOntario
+TV Osaka
+TV Setouchi
 TV Tokyo
 TV12
 TV2 (NZ)
 TV2(NZ)
+TV2
 TV3 Sverige
 TV4
 TV6
 TV8
-TV Hokkaido
 TVNZ 1
 TVNZ 2
 TVNZ2
-TV Osaka
-TV Setouchi
+TVOntario
+TVQ (Japan)
 TVQ
+Telemundo
+Teletoon
+Tencent Video
+The CW
+The Roku Channel
+The WB
+The Weather Channel
+Tokyo Broadcasting System (TBS)
+Tokyo Broadcasting System Television
+Tokyo Broadcasting System
+Tokyo MX
+Toon Disney
+Toonami
+Travel Channel
+Travel
+Treehouse TV
+Turner Network Television (TNT)
+UPN
+USA Network
+USA
 Unis TV
 Universal Kids
 Univision
 Unterföhring
-UPN
-USA Network
 VH1
-Viaplay
-Vice TV
-Viceland
+VICE TV (US)
 VOOT
-vtm
-VTM GO
+VRT (BE)
+VRT MAX (BE)
 VRT
-VRT MAX
+VTM GO (BE)
+VTM GO
+Viaplay
+WE tv
+WOWOW Prime
+WOWOW
+Walt Disney Feature Animation
+Walt Disney Television Animation
 Wanda Films
 Warner Bros
 Warner Brothers
 Warner Independent Pictures
-Walt Disney Feature Animation
-Walt Disney Television Animation
-WE tv
-WOWOW
-WOWOW Prime
-Yahoo! Screen
-Youtube
-Youtube Premium
-YTV
 YTV (JP)
+YTV
+Yahoo! Screen
+YouTube Premium
+YouTube
+Youtube
 ZDF
 ZDFneo
+bilibili
+discovery+
+truTV
+tv asahi
+tvk
+vtm (BE)
+vtm
+één (BE)
+één
