@@ -1,7 +1,7 @@
 [
   {
     "name": "All 4",
-    "machine-name": "All 4",
+    "machine-name": "all-4",
     "providers": {
       "tvdb": "47791",
       "tmdb": "1988",
