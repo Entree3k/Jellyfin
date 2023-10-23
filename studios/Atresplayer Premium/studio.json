@@ -3,7 +3,6 @@
     "name": "Atresplayer Premium",
     "machine-name": "atresplayer-premium",
     "providers": {
-      "tvdb": "1387 ",
       "tmdb": "3744",
       "imdb": "co0761364"
     },
