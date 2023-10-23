@@ -1,7 +1,7 @@
 [
   {
     "name": "ABC News",
-    "machine-name": "ABC News",
+    "machine-name": "abc-news",
     "providers": {
       "tvdb": "3084",
       "tmdb": "601"
