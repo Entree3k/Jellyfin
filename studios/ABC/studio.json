@@ -1,7 +1,7 @@
 [
   {
     "name": "ABC",
-    "machine-name": "ABC",
+    "machine-name": "abc",
     "providers": {
       "tvdb": "5",
       "tmdb": "2",
