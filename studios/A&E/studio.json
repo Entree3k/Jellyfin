@@ -1,7 +1,7 @@
 [
   {
     "name": "A&E",
-    "machine-name": "A&E",
+    "machine-name": "a&e",
     "providers": {
       "tvdb": "2",
       "tmdb": "129",
