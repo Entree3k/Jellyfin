@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Atresplayer Premium",
+    "machine-name": "atresplayer-premium",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "1387 ",
+      "tmdb": "3744",
+      "imdb": "co0761364"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
