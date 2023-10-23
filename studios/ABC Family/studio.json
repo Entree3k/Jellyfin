@@ -1,7 +1,7 @@
 [
   {
     "name": "ABC Family",
-    "machine-name": "ABC Family",
+    "machine-name": "abc-family",
     "providers": {
       "tvdb": "9",
       "tmdb": "75",
