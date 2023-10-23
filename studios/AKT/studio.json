@@ -1,7 +1,7 @@
 [
   {
     "name": "Akita TV",
-    "machine-name": "Akita TV",
+    "machine-name": "akita-tv",
     "providers": {
       "tmdb": "6819",
       "imdb": "co0340047",
