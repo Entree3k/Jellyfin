@@ -1,11 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "ABC Family",
+    "machine-name": "ABC Family",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
+      "tvdb": "9",
+      "tmdb": "75",
+      "imdb": "co0050794",
       "anidb": "ID # here"
     },
     "artwork": {
