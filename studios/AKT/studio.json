@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Akita TV",
+    "machine-name": "Akita TV",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tmdb": "6819",
+      "imdb": "co0340047",
+      "anidb": "35731"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
