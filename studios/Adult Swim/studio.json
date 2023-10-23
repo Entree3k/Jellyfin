@@ -1,7 +1,7 @@
 [
   {
     "name": "Adult Swim",
-    "machine-name": "Adult Swim",
+    "machine-name": "adult-swim",
     "providers": {
       "tvdb": "698",
       "tmdb": "80",
