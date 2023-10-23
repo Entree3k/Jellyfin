@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Prime Video",
+    "machine-name": "Prime Video",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "4226",
+      "tmdb": "1024",
+      "imdb": "co0476953"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
