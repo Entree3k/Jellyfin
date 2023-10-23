@@ -1,7 +1,7 @@
 [
   {
     "name": "7TWO",
-    "machine-name": "7TWO",
+    "machine-name": "7two",
     "providers": {
       "tmdb": "1545",
       "imdb": "co0381911"
