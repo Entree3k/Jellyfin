@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "AMC",
+    "machine-name": "AMC",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "389",
+      "tmdb": "174",
+      "imdb": "co0332012"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
