@@ -1,7 +1,7 @@
 [
   {
     "name": "Amazon Freevee",
-    "machine-name": "Amazon Freevee",
+    "machine-name": "amazon-freevee",
     "providers": {
       "tvdb": "48336",
       "tmdb": "5865",
