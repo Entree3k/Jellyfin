@@ -1,7 +1,7 @@
 [
   {
     "name": "ABC News 24",
-    "machine-name": "ABC News 24",
+    "machine-name": "abc-news-24",
     "providers": {
       "tvdb": "572",
       "imdb": "co0396190"
