@@ -1,12 +1,12 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "BS Fuji",
+    "machine-name": "bs-fuji",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "8508",
+      "tmdb": "59206",
+      "imdb": "co0220839",
+      "anidb": "1102"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
