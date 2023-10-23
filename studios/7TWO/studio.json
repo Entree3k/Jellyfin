@@ -1,12 +1,10 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "7TWO",
+    "machine-name": "7TWO",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tmdb": "1545",
+      "imdb": "co0381911"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
