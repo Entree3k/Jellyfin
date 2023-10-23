@@ -1,7 +1,7 @@
 [
   {
     "name": "AT-X",
-    "machine-name": "AT-X",
+    "machine-name": "at-x",
     "providers": {
       "tvdb": "433",
       "tmdb": "173",
