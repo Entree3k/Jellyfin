@@ -1,7 +1,7 @@
 [
   {
     "name": "AMC",
-    "machine-name": "AMC",
+    "machine-name": "amc",
     "providers": {
       "tvdb": "389",
       "tmdb": "174",
