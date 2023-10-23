@@ -1,12 +1,12 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "AT-X",
+    "machine-name": "AT-X",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "433",
+      "tmdb": "173",
+      "imdb": "co0035005",
+      "anidb": "1024"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
