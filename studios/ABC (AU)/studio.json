@@ -1,7 +1,7 @@
 [
   {
     "name": "ABC TV",
-    "machine-name": "ABC TV",
+    "machine-name": "abc-tv",
     "providers": {
       "tvdb": "6",
       "tmdb": "18",
