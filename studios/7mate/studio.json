@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "7mate",
+    "machine-name": "7mate",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "952 ",
+      "tmdb": "1721",
+      "imdb": "co0390891"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
