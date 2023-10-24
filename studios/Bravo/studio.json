@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Bravo",
+    "machine-name": "bravo",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "1303",
+      "tmdb": "74",
+      "imdb": "co0044418"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
