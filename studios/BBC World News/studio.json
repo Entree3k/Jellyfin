@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "BBC World News",
+    "machine-name": "bbc-world-news",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "41",
+      "tmdb": "317",
+      "imdb": "co0460362"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
