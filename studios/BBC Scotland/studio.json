@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "BBC Scotland",
+    "machine-name": "bbc-scotland",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "1434",
+      "tmdb": "3278",
+      "imdb": "co0086182"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
