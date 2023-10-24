@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "BBC Two",
+    "machine-name": "bbc-two",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "40",
+      "tmdb": "332",
+      "imdb": "co0234496"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
