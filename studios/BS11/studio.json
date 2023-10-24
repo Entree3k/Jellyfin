@@ -1,12 +1,12 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "BS11",
+    "machine-name": "bs11",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "377",
+      "tmdb": "118502",
+      "imdb": "co0941313",
+      "anidb": "35554"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
