@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": " BBC Three",
+    "machine-name": "bbc-three",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "39",
+      "tmdb": "3",
+      "imdb": "co0399177"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
