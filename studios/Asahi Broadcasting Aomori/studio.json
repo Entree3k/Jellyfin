@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Asahi Broadcasting Aomori",
+      "machine-name": "asahi-broadcasting-aomori",
+      "providers": {
+        "tmdb": "4798",
+        "imdb": "co0304031"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

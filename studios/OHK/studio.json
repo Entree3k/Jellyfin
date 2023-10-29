@@ -1,0 +1,15 @@
+[
+    {
+      "name": "OHK",
+      "machine-name": "ohk",
+      "providers": {
+        "tmdb": "4851",
+        "imdb": "co0317297"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

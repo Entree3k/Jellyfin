@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Iwate Asahi TV",
+      "machine-name": "iwate-asahi-tv",
+      "providers": {
+        "tmdb": "6365",
+        "imdb": "co0225273"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

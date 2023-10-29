@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Tohoku Broadcasting",
+      "machine-name": "tohoku-broadcasting",
+      "providers": {
+        "tmdb": "3979",
+        "imdb": "co0157146"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

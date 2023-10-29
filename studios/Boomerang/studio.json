@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Boomerang",
+      "machine-name": "boomerang",
+      "providers": {
+        "tmdb": "523",
+        "imdb": "co0530659"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

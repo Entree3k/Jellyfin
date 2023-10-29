@@ -13,13 +13,16 @@ ABC News
 ABC News 24
 ABC TV
 ABC
+ABC3
 ABS (US)
 AKT
 AMC+
 AMC
 ARD
+ATV
 AT-X (JP)
 AT-X
+ABEMA
 Adult Swim
 All 4
 Amazon Freevee
@@ -33,6 +36,9 @@ Arte
 Atresplayer Premium
 Atresplayer
 Axess TV
+Akita Asahi Broadcasting
+Asahi Broadcasting Aomori
+Asahi Broadcasting Nagano
 BBC 1
 BBC 2
 BBC 3
@@ -55,10 +61,14 @@ BBC2
 BBC3
 BBC4
 BET
+Bones
+Boomerang
 BS Fuji
 BS11
 BS4
+BSN
 Bravo
+Broadcasting System of San-in
 C More
 CBBC
 CBC (CA)
@@ -139,11 +149,14 @@ Fuse
 Fusion
 G4
 GameTap
+GBS
 Global TV
 GoPlay (BE)
 GoPlay
 Gold
+Gulli
 Gunma TV
+HBC
 HBO Asia
 HBO Canada
 HBO España
@@ -156,10 +169,15 @@ HGTV
 Hallmark Channel
 History (CA)
 History
+Hokuriku Asahi Broadcasting
+Hokuriku Broadcasting
 Hokkaido Cultural Broadcasting
+HOME
+HTB
 Hub Network
 Hulu Original Series
 Hulu
+IBC Iwate Broadcasting
 IFC Films
 IFC
 IGN
@@ -169,14 +187,25 @@ ITV1
 ITV2
 Investigation Discovery
 Ishikawa TV
+Iwate Asahi TV
 Iwate Menkoi Television
+i-Television
+Jetix
 KTS
+Kagoshima Broadcasting
 Kanal 11
 Kanal 5
 Kanal 9
 Kansai TV
+KBS Kyoto
+KFB
+khb
 KiKa
 Kochi Sun Sun Broadcasting
+KSB
+Kumamoto Asahi Broadcasting
+Kyushu Asahi Broadcasting
+Lifetime
 M6
 MBC
 MBS
@@ -189,6 +218,12 @@ Max
 MeTV
 Mondo TV
 Movistar+
+MRT Miyazaki Broadcasting
+Nagasaki Broadcasting Company
+Nagasaki Culture Telecasting Corporation
+Nagoya TV
+NHK Educational TV
+Niigata Television Network 21
 NBC
 NBS
 NDR
@@ -214,6 +249,9 @@ Nippon Television Network
 Nippon Television Network Corporation (NTV)
 Nippon Television Network Corporation
 Norsk Rikskringkasting (NRK)
+OHK
+Oita Asahi Broadcasting
+Oita Broadcasting System
 ORF
 OUFtivi
 PBS Kibs
@@ -225,12 +263,24 @@ Play4 (BE)
 Play4
 Playhouse Disney
 Pop
+Pokémon TV
 Prime Video
 RBB Fernsehen
 RTL
 Rai Gulp
+Rai 2
+RCC
 Really
+RKB
+RKK Kumamoto Broadcasting
+RSK
+Ryukyu Broadcasting
+Ryu-Q Asahi Broadcasting
+SAGA TV
+SBC
 SBS
+Shizuoka Asahi TV
+Studio Palette
 STV
 SVT1
 SVT2
@@ -261,6 +311,19 @@ TF1
 TLC
 TNK
 TNT
+Tochigi TV
+Tohoku Broadcasting
+Tokai Television Broadcasting
+TSC
+Tulip Television
+TV Kochi Broadcasting
+TV Shizuoka
+TV Yamanashi
+TV4 Plus
+TVh
+TV-U Fukushima
+TV-U Yamagata
+tys
 TV Aichi
 TV Hokkaido
 TV Land
@@ -298,6 +361,7 @@ Travel Channel
 Travel
 Treehouse TV
 Turner Network Television (TNT)
+ufotable
 UPN
 USA Network
 USA
@@ -323,6 +387,8 @@ Wanda Films
 Warner Bros
 Warner Brothers
 Warner Independent Pictures
+Yamagata TV
+Yamaguchi Asahi Broadcasting
 YTV (JP)
 YTV
 Yahoo! Screen

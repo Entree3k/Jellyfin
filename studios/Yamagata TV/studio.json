@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Yamagata TV",
+      "machine-name": "yamagata-tv",
+      "providers": {
+        "tmdb": "6367",
+        "imdb": "co0117315"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]

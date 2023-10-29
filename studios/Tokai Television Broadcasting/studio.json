@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Tokai Television Broadcasting",
+      "machine-name": "tokai-television-broadcasting",
+      "providers": {
+        "tmdb": "879",
+        "imdb": "co0859436"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

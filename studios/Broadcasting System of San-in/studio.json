@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Broadcasting System of San-in",
+      "machine-name": "broadcasting-system-of-san-in",
+      "providers": {
+        "tmdb": "3972",
+        "imdb": "co0210936"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

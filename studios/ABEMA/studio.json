@@ -1,0 +1,15 @@
+[
+    {
+      "name": "ABEMA",
+      "machine-name": "abema",
+      "providers": {
+        "tmdb": "1521",
+        "imdb": "co0828189"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

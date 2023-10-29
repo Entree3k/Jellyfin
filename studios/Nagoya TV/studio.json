@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Nagoya TV",
+      "machine-name": "nagoya-tv",
+      "providers": {
+        "tmdb": "576",
+        "imdb": "co0002299"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "name": "TVh",
+      "machine-name": "tvh",
+      "providers": {
+        "tmdb": "938",
+        "imdb": "co0265377"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]

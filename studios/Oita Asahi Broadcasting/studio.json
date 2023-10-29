@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Oita Asahi Broadcasting",
+      "machine-name": "oita-asahi-broadcasting",
+      "providers": {
+        "tmdb": "4794",
+        "imdb": "co0303947"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

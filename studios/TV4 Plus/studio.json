@@ -1,0 +1,15 @@
+[
+    {
+      "name": "TV4 Plus",
+      "machine-name": "tv4-plus",
+      "providers": {
+        "tmdb": "352",
+        "imdb": "co0148934"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

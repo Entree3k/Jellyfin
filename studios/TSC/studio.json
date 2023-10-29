@@ -1,0 +1,15 @@
+[
+    {
+      "name": "TSC",
+      "machine-name": "tsc",
+      "providers": {
+        "tmdb": "2064",
+        "imdb": "co0190623"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

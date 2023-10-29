@@ -1,0 +1,15 @@
+[
+    {
+      "name": "khb",
+      "machine-name": "khb",
+      "providers": {
+        "tmdb": "6284",
+        "imdb": "co0280027"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

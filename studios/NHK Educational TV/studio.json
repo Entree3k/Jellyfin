@@ -1,0 +1,15 @@
+[
+    {
+      "name": "NHK Educational TV",
+      "machine-name": "nhk-educational-tv",
+      "providers": {
+        "tmdb": "622",
+        "imdb": "co0203796"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

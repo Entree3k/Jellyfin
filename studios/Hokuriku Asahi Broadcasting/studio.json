@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Hokuriku Asahi Broadcasting",
+      "machine-name": "hokuriku-asahi-broadcasting",
+      "providers": {
+        "tmdb": "6370",
+        "imdb": "co0345604"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  
