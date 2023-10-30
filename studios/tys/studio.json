@@ -1,0 +1,14 @@
+[
+    {
+      "name": "tys",
+      "machine-name": "tys",
+      "providers": {
+        "tmdb": "2461",
+        "imdb": "co0161107"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]

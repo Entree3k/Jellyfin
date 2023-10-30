@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Rai 2",
+      "machine-name": "rai-2",
+      "providers": {
+        "tmdb": "236",
+        "imdb": "co0163343"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

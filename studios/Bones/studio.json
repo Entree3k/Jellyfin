@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Bones",
+      "machine-name": "bones",
+      "providers": {
+        "imdb": "co0073964"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

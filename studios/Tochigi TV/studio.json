@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Tochigi TV",
+      "machine-name": "tochigi-tv",
+      "providers": {
+        "tmdb": "2478",
+        "imdb": "co0353568"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

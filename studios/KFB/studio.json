@@ -1,0 +1,15 @@
+[
+    {
+      "name": "KFB",
+      "machine-name": "kfb",
+      "providers": {
+        "tmdb": "6285",
+        "imdb": "co0303993"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

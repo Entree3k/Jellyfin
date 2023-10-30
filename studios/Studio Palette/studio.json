@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Studio Palette",
+      "machine-name": "studio-palette",
+      "providers": {
+        "imdb": "co0521133"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

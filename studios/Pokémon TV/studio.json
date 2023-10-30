@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Pokémon TV",
+      "machine-name": "pokemon-tv",
+      "providers": {
+        "tmdb": "6747",
+        "imdb": "co0462508"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

@@ -1,41 +1,37 @@
 #0
 #Vamos
-7mate
 7TWO
+7mate (AU)
+7mate
 A&E
-ABC
 ABC (AU)
-ABC (JA)
-ABC (JP)
-ABC (US)
 ABC Family
-ABC News
 ABC News 24
-ABC TV
+ABC News
 ABC
-ABS (US)
+ABC3
+ABEMA
 AKT
 AMC+
 AMC
-ARD
 AT-X (JP)
 AT-X
+ATV
 Adult Swim
+Akita Asahi Broadcasting
 All 4
 Amazon Freevee
-Amazon Prime Video
 Amazon
 Animal Planet
 Anime Digital Network
 Antena 3
 Apple TV+
 Arte
+Asahi Broadcasting Aomori
+Asahi Broadcasting Nagano
 Atresplayer Premium
 Atresplayer
 Axess TV
-BBC 1
-BBC 2
-BBC 3
 BBC Alba
 BBC America
 BBC Earth
@@ -45,20 +41,16 @@ BBC Scotland
 BBC Three
 BBC Two
 BBC World News
-BBC-1
-BBC-2
-BBC-3
-BBC-4
 BBC
-BBC1
-BBC2
-BBC3
-BBC4
 BET
 BS Fuji
 BS11
 BS4
+BSN
+Bones
+Boomerang
 Bravo
+Broadcasting System of San-in
 C More
 CBBC
 CBC (CA)
@@ -105,13 +97,10 @@ Epix
 Eurosport
 F1TV
 FOX (US)
-Fox España
+FOX España
 FOX
 FUNimation Entertainment
 FUNimation
-FX (US)
-FX Channel
-FX Productions
 FX
 FXM
 FXX
@@ -121,7 +110,6 @@ Food Network
 Fox Kids
 Fox Sports
 France 2
-France 24 (FR)
 France 24
 France 3
 France 4
@@ -133,17 +121,18 @@ Frontier Works
 Fuji TV
 Fukui TV
 Fukushima TV
-Funimation Channel
-Funimation
 Fuse
 Fusion
 G4
+GBS
 GameTap
 Global TV
 GoPlay (BE)
 GoPlay
 Gold
+Gulli
 Gunma TV
+HBC
 HBO Asia
 HBO Canada
 HBO España
@@ -153,13 +142,18 @@ HBO Max
 HBO Nordic
 HBO
 HGTV
+HOME
+HTB
 Hallmark Channel
 History (CA)
 History
 Hokkaido Cultural Broadcasting
+Hokuriku Asahi Broadcasting
+Hokuriku Broadcasting
 Hub Network
 Hulu Original Series
 Hulu
+IBC Iwate Broadcasting
 IFC Films
 IFC
 IGN
@@ -169,19 +163,28 @@ ITV1
 ITV2
 Investigation Discovery
 Ishikawa TV
+Iwate Asahi TV
 Iwate Menkoi Television
+Jetix
+KBS Kyoto
+KFB
+KSB
 KTS
+Kagoshima Broadcasting
 Kanal 11
 Kanal 5
 Kanal 9
 Kansai TV
 KiKa
 Kochi Sun Sun Broadcasting
+Kumamoto Asahi Broadcasting
+Kyushu Asahi Broadcasting
+Lifetime
 M6
 MBC
 MBS
 MGM+
-MTV (US)
+MRT Miyazaki Broadcasting
 MTV
 MTV2
 Manhattan Neighborhood Network
@@ -192,6 +195,7 @@ Movistar+
 NBC
 NBS
 NDR
+NHK Educational TV
 NHK G
 NHK
 NIB
@@ -199,6 +203,9 @@ NRK1
 NRK2
 NRK3
 NTV (JP)
+Nagasaki Broadcasting Company
+Nagasaki Culture Telecasting Corporation
+Nagoya TV
 National Educational Television
 National Geographic Channel
 National Geographic India
@@ -208,28 +215,38 @@ Network Ten
 Nick Jr
 Nickelodeon
 Nicktoons
+Niigata Television Network 21
 Nine Network
 Nippon TV
-Nippon Television Network
-Nippon Television Network Corporation (NTV)
-Nippon Television Network Corporation
 Norsk Rikskringkasting (NRK)
+OHK
 ORF
 OUFtivi
-PBS Kibs
+Oita Asahi Broadcasting
+Oita Broadcasting System
+PBS Kids
 PBS
 Paramount Network
 Paramount+
 Peacock
-Play4 (BE)
 Play4
 Playhouse Disney
+Pokémon TV
 Pop
 Prime Video
 RBB Fernsehen
+RCC
+RKB
+RKK Kumamoto Broadcasting
+RSK
 RTL
+Rai 2
 Rai Gulp
 Really
+Ryu-Q Asahi Broadcasting
+Ryukyu Broadcasting
+SAGA TV
+SBC
 SBS
 STV
 SVT1
@@ -237,6 +254,7 @@ SVT2
 Science Channel
 Service Electric Network
 Seven Network
+Shizuoka Asahi TV
 Showcase
 Showtime
 Shudder
@@ -252,35 +270,39 @@ Sony Liv
 Space
 Spike TV
 Spike
-Stan (AU)
 Stan
 Starz
+Studio Palette
 Syfy
 TBS
 TF1
 TLC
 TNK
 TNT
+TSC
 TV Aichi
 TV Hokkaido
+TV Kochi Broadcasting
 TV Land
 TV Osaka
 TV Setouchi
+TV Shizuoka
 TV Tokyo
+TV Yamanashi
+TV-U Fukushima
+TV-U Yamagata
 TV12
-TV2 (NZ)
-TV2(NZ)
-TV2
 TV3 Sverige
+TV4 Plus
 TV4
 TV6
 TV8
 TVNZ 1
 TVNZ 2
-TVNZ2
 TVOntario
 TVQ (Japan)
 TVQ
+TVh
 Telemundo
 Teletoon
 Tencent Video
@@ -288,8 +310,9 @@ The CW
 The Roku Channel
 The WB
 The Weather Channel
-Tokyo Broadcasting System (TBS)
-Tokyo Broadcasting System Television
+Tochigi TV
+Tohoku Broadcasting
+Tokai Television Broadcasting
 Tokyo Broadcasting System
 Tokyo MX
 Toon Disney
@@ -297,6 +320,7 @@ Toonami
 Travel Channel
 Travel
 Treehouse TV
+Tulip Television
 Turner Network Television (TNT)
 UPN
 USA Network
@@ -308,35 +332,36 @@ Unterföhring
 VH1
 VICE TV (US)
 VOOT
-VRT (BE)
-VRT MAX (BE)
+VRT MAX
 VRT
-VTM GO (BE)
 VTM GO
 Viaplay
+Vice TV
+Viceland
 WE tv
 WOWOW Prime
 WOWOW
 Walt Disney Feature Animation
 Walt Disney Television Animation
 Wanda Films
-Warner Bros
 Warner Brothers
 Warner Independent Pictures
-YTV (JP)
 YTV
 Yahoo! Screen
+Yamagata TV
+Yamaguchi Asahi Broadcasting
 YouTube Premium
 YouTube
-Youtube
 ZDF
 ZDFneo
 bilibili
 discovery+
+i-Television
+khb
 truTV
 tv asahi
 tvk
-vtm (BE)
+tys
+ufotable
 vtm
-één (BE)
 één

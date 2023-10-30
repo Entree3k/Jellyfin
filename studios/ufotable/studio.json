@@ -1,0 +1,13 @@
+[
+    {
+      "name": "ufotable",
+      "machine-name": "ufotable",
+      "providers": {
+        "imdb": "co0161107"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]

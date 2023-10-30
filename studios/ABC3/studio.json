@@ -1,0 +1,15 @@
+[
+    {
+      "name": "ABC3",
+      "machine-name": "abc3",
+      "providers": {
+        "tmdb": "279",
+        "imdb": "co0385785"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Yamaguchi Asahi Broadcasting",
+      "machine-name": "yamaguchi-asahi-broadcasting",
+      "providers": {
+        "tmdb": "6373",
+        "imdb": "co0281484"
+      },
+      "artwork": {
+        "primary": ["svg", "webp", "jpg", "png"],
+        "thumb": ["svg", "webp", "jpg", "png"]
+      }
+    }
+  ]
