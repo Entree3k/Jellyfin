@@ -12,6 +12,6 @@ This project contains an archive of studio thumbnail and poster images for use w
 2. Navigate to Plugins in the sidebar
 3. Click the three dot menu on the Studio Images plugin and select "Settings"
 4. Change the Repository value to
-    >https://raw.githubusercontent.com/Entree3k/Jellyfin-Studio-Images/main/studios
+    >https://raw.githubusercontent.com/Entree3k/Jellyfin/main/studios
 
 If you would like to use my template to make some posters for Jellyfin and you do not have Photoshop/Gimp here is the link to file on Photopea www.photopea.com/#iDAQIkUUF.psd
