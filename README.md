@@ -1,4 +1,4 @@
-# Jellyfin Artwork Repository
+# Enhancing Jellyfin's TV Network Section
 
 This project contains an archive of studio thumbnail and poster images for use with Jellyfin via the "Studio Images" plugin.
 
