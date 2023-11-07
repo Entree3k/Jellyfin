@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "CBBC",
+    "machine-name": "cbbc",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "53",
+      "tmdb": "15",
+      "imdb": "co0219933"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
