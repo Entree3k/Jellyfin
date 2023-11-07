@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Crave",
+    "machine-name": "crave",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "933",
+      "tmdb": "1344",
+      "imdb": "co0605105"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
