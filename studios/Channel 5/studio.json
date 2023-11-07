@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Channel 5",
+    "machine-name": "channel-5",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "599",
+      "tmdb": "99",
+      "imdb": "co0003500"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
