@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Cinemax",
+    "machine-name": "cinemax",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "344",
+      "tmdb": "74097",
+      "imdb": "co0042496"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
