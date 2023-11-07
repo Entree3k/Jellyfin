@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "CTV",
+    "machine-name": "ctv",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "75",
+      "tmdb": "110",
+      "imdb": "co1018324"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
