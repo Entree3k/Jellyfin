@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "CBC Gem",
+    "machine-name": "cbc-gem",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "47706",
+      "tmdb": "2981",
+      "imdb": "co0737690"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
