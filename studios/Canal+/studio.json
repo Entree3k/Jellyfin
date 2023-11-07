@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Canal+",
+    "machine-name": "canal+",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "49",
+      "tmdb": "285",
+      "imdb": "co0028557"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
