@@ -1,12 +1,11 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Epix",
+    "machine-name": "epix",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "943",
+      "tmdb": "6805",
+      "imdb": "co0287003"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
