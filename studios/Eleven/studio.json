@@ -1,12 +1,10 @@
 [
   {
-    "name": "Network-Name",
-    "machine-name": "network-name",
+    "name": "Eleven",
+    "machine-name": "eleven",
     "providers": {
-      "tvdb": "ID # here",
-      "tmdb": "ID # here",
-      "imdb": "ID # here",
-      "anidb": "ID # here"
+      "tvdb": "981",
+      "tmdb": "288"
     },
     "artwork": {
       "primary": ["svg", "webp", "jpg", "png"],
