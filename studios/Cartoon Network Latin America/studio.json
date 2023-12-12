@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cartoon Network",
+    "machine-name": "cartoon-network",
+    "providers": {
+      "tmdb": "1483",
+      "imdb": "co1015360"
+    },
+    "artwork": {
+      "primary": ["svg", "webp", "jpg", "png"],
+      "thumb": ["svg", "webp", "jpg", "png"]
+    }
+  }
+]
