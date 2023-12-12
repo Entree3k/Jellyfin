@@ -1,7 +1,7 @@
 [
   {
-    "name": "Cartoon Network",
-    "machine-name": "cartoon-network",
+    "name": "Cartoon Network Latin America",
+    "machine-name": "cartoon-network-latin-america",
     "providers": {
       "tmdb": "1483",
       "imdb": "co1015360"
