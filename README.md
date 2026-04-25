@@ -18,7 +18,7 @@ Got it — you want it framed as a proper plugin install guide. Here’s a clean
 
 3. Click **Add Repository** and enter the following:
 
-   * **Name:** Network Images
+   * **Name:** [Network Images](https://github.com/Entree3k/Network-Studio-Images)
    * **URL:**
 
      ```
