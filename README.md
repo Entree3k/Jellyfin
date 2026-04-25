@@ -6,8 +6,6 @@ This project contains an archive of studio thumbnail and poster images for use w
 
 ![1](https://user-images.githubusercontent.com/28127566/192118677-81025665-a347-43a8-842d-0dbb53b86542.png)
 
-Got it — you want it framed as a proper plugin install guide. Here’s a cleaned-up, more professional version:
-
 ---
 
 ## Installation
