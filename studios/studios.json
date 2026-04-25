@@ -1,0 +1,8051 @@
+[
+  {
+    "name": "#0",
+    "machine-name": "#0",
+    "providers": {
+      "tvdb": "989 ",
+      "tmdb": "2140",
+      "imdb": "co0735675"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "#Vamos",
+    "machine-name": "#Vamos",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "10",
+    "machine-name": "10",
+    "providers": {
+      "tmdb": "38"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "7mate",
+    "machine-name": "7mate",
+    "providers": {
+      "tvdb": "952 ",
+      "tmdb": "1721",
+      "imdb": "co0390891"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "7mate (AU)",
+    "machine-name": "7mate (AU)",
+    "providers": {
+      "tvdb": "952 ",
+      "tmdb": "1721",
+      "imdb": "co0390891"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "7TWO",
+    "machine-name": "7TWO",
+    "providers": {
+      "tmdb": "1545",
+      "imdb": "co0381911"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "A&E",
+    "machine-name": "A&E",
+    "providers": {
+      "tvdb": "2",
+      "tmdb": "129",
+      "imdb": "co0976488"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC",
+    "machine-name": "ABC",
+    "providers": {
+      "tvdb": "5",
+      "tmdb": "2",
+      "imdb": "co0037052"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC (AU)",
+    "machine-name": "ABC (AU)",
+    "providers": {
+      "tvdb": "6",
+      "tmdb": "18",
+      "imdb": "co0051111"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC Family",
+    "machine-name": "ABC Family",
+    "providers": {
+      "tmdb": "7687"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC News",
+    "machine-name": "ABC News",
+    "providers": {
+      "tvdb": "3084",
+      "tmdb": "601"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC News 24",
+    "machine-name": "ABC News 24",
+    "providers": {
+      "tvdb": "572",
+      "imdb": "co0396190"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC TV",
+    "machine-name": "ABC TV",
+    "providers": {
+      "tmdb": "18"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABC3",
+    "machine-name": "ABC3",
+    "providers": {
+      "tmdb": "279",
+      "imdb": "co0385785"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ABEMA",
+    "machine-name": "ABEMA",
+    "providers": {
+      "tmdb": "1521",
+      "imdb": "co0828189"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Adult Swim",
+    "machine-name": "Adult Swim",
+    "providers": {
+      "tvdb": "698",
+      "tmdb": "80",
+      "imdb": "co0153115",
+      "anidb": "72784"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Akita Asahi Broadcasting",
+    "machine-name": "Akita Asahi Broadcasting",
+    "providers": {
+      "tmdb": "6366",
+      "imdb": "co0304036"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "AKT",
+    "machine-name": "AKT",
+    "providers": {
+      "tmdb": "6819",
+      "imdb": "co0340047",
+      "anidb": "35731"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "All 4",
+    "machine-name": "All 4",
+    "providers": {
+      "tvdb": "47791",
+      "tmdb": "1988",
+      "imdb": "co0867541"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Amazon",
+    "machine-name": "Amazon",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Amazon Freevee",
+    "machine-name": "Amazon Freevee",
+    "providers": {
+      "tvdb": "48336",
+      "tmdb": "5865",
+      "imdb": "co0796766"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "AMC",
+    "machine-name": "AMC",
+    "providers": {
+      "tvdb": "389",
+      "tmdb": "174",
+      "imdb": "co0332012"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "AMC+",
+    "machine-name": "AMC+",
+    "providers": {
+      "tvdb": "47634",
+      "tmdb": "4661",
+      "imdb": "co0815501"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Animal Planet",
+    "machine-name": "Animal Planet",
+    "providers": {
+      "tvdb": "19",
+      "tmdb": "91",
+      "imdb": "co0038145"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ANIMAX",
+    "machine-name": "ANIMAX",
+    "providers": {
+      "tmdb": "171"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Anime Digital Network",
+    "machine-name": "Anime Digital Network",
+    "providers": {
+      "tvdb": "48081"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Antena 3",
+    "machine-name": "Antena 3",
+    "providers": {
+      "tvdb": "22",
+      "tmdb": "400",
+      "imdb": "co0492251"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Apple TV",
+    "machine-name": "Apple TV",
+    "providers": {
+      "tmdb": "2552"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Apple TV+",
+    "machine-name": "Apple TV+",
+    "providers": {
+      "tvdb": "1289",
+      "tmdb": "2552",
+      "imdb": "co0546168"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Arte",
+    "machine-name": "Arte",
+    "providers": {
+      "tvdb": "378 ",
+      "tmdb": "1628",
+      "imdb": "co0014456"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Asahi Broadcasting Aomori",
+    "machine-name": "Asahi Broadcasting Aomori",
+    "providers": {
+      "tmdb": "4798",
+      "imdb": "co0304031"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Asahi Broadcasting Nagano",
+    "machine-name": "Asahi Broadcasting Nagano",
+    "providers": {
+      "tmdb": "6369",
+      "imdb": "co0304095"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "AT-X",
+    "machine-name": "AT-X",
+    "providers": {
+      "tvdb": "433",
+      "tmdb": "173",
+      "imdb": "co0035005",
+      "anidb": "1024"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "AT-X (JP)",
+    "machine-name": "AT-X (JP)",
+    "providers": {
+      "tvdb": "433",
+      "tmdb": "173",
+      "imdb": "co0035005",
+      "anidb": "1024"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Atresplayer",
+    "machine-name": "Atresplayer",
+    "providers": {
+      "tvdb": "1387 "
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Atresplayer Premium",
+    "machine-name": "Atresplayer Premium",
+    "providers": {
+      "tmdb": "3744",
+      "imdb": "co0761364"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ATV",
+    "machine-name": "ATV",
+    "providers": {
+      "tmdb": "6174",
+      "imdb": "co0693600"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Axess TV",
+    "machine-name": "Axess TV",
+    "providers": {
+      "imdb": "co0689414"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC",
+    "machine-name": "BBC",
+    "providers": {
+      "tvdb": "956",
+      "imdb": "co0043107"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Alba",
+    "machine-name": "BBC Alba",
+    "providers": {
+      "tvdb": "674",
+      "tmdb": "5384",
+      "imdb": "co0246015"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC America",
+    "machine-name": "BBC America",
+    "providers": {
+      "tvdb": "32",
+      "tmdb": "493",
+      "imdb": "co0118334"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Earth",
+    "machine-name": "BBC Earth",
+    "providers": {
+      "tvdb": "6686",
+      "tmdb": "6852",
+      "imdb": "co0317480"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Four",
+    "machine-name": "BBC Four",
+    "providers": {
+      "tvdb": "34",
+      "tmdb": "100",
+      "imdb": "co0290595"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC One",
+    "machine-name": "BBC One",
+    "providers": {
+      "tvdb": "37",
+      "tmdb": "4",
+      "imdb": "co0234667"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Scotland",
+    "machine-name": "BBC Scotland",
+    "providers": {
+      "tvdb": "1434",
+      "tmdb": "3278",
+      "imdb": "co0086182"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Television",
+    "machine-name": "BBC Television",
+    "providers": {
+      "tmdb": "3546"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Three",
+    "machine-name": "BBC Three",
+    "providers": {
+      "tvdb": "39",
+      "tmdb": "3",
+      "imdb": "co0399177"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC Two",
+    "machine-name": "BBC Two",
+    "providers": {
+      "tvdb": "40",
+      "tmdb": "332",
+      "imdb": "co0234496"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BBC World News",
+    "machine-name": "BBC World News",
+    "providers": {
+      "tvdb": "41",
+      "tmdb": "317",
+      "imdb": "co0460362"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BET",
+    "machine-name": "BET",
+    "providers": {
+      "tvdb": "430",
+      "tmdb": "24",
+      "imdb": "co0050878"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "bilibili",
+    "machine-name": "bilibili",
+    "providers": {
+      "tmdb": "8799"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Binge",
+    "machine-name": "Binge",
+    "providers": {
+      "tmdb": "5490"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Bones",
+    "machine-name": "Bones",
+    "providers": {
+      "imdb": "co0073964"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Boomerang",
+    "machine-name": "Boomerang",
+    "providers": {
+      "tmdb": "523",
+      "imdb": "co0530659"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Bravo",
+    "machine-name": "Bravo",
+    "providers": {
+      "tvdb": "1303",
+      "tmdb": "74",
+      "imdb": "co0044418"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BSS",
+    "machine-name": "BSS",
+    "providers": {
+      "tmdb": "3972"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Broadcasting System of San-in",
+    "machine-name": "Broadcasting System of San-in",
+    "providers": {
+      "tmdb": "3972",
+      "imdb": "co0210936"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BS Fuji",
+    "machine-name": "BS Fuji",
+    "providers": {
+      "tvdb": "8508",
+      "tmdb": "59206",
+      "imdb": "co0220839",
+      "anidb": "1102"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BS11",
+    "machine-name": "BS11",
+    "providers": {
+      "tvdb": "377",
+      "tmdb": "118502",
+      "imdb": "co0941313",
+      "anidb": "35554"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BS4",
+    "machine-name": "BS4",
+    "providers": {
+      "tmdb": "3220"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BSN",
+    "machine-name": "BSN",
+    "providers": {
+      "tmdb": "2460",
+      "imdb": "co0157521"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "C More",
+    "machine-name": "C More",
+    "providers": {
+      "tvdb": "985",
+      "tmdb": "458",
+      "imdb": "co0400718"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Canal J",
+    "machine-name": "Canal J",
+    "providers": {
+      "tvdb": "687",
+      "tmdb": "682",
+      "imdb": "co0290595"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Canal+",
+    "machine-name": "Canal+",
+    "providers": {
+      "tvdb": "49",
+      "tmdb": "285",
+      "imdb": "co0028557"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Cartoon Network",
+    "machine-name": "Cartoon Network",
+    "providers": {
+      "tvdb": "52",
+      "tmdb": "56",
+      "imdb": "co0290595",
+      "anidb": "10825"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Cartoon Network Latin America",
+    "machine-name": "Cartoon Network Latin America",
+    "providers": {
+      "tmdb": "1483",
+      "imdb": "co1015360"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBBC",
+    "machine-name": "CBBC",
+    "providers": {
+      "tvdb": "53",
+      "tmdb": "15",
+      "imdb": "co0219933"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBC",
+    "machine-name": "CBC",
+    "providers": {
+      "tvdb": "54",
+      "tmdb": "12113",
+      "imdb": "co0045850"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBC Gem",
+    "machine-name": "CBC Gem",
+    "providers": {
+      "tvdb": "47706",
+      "tmdb": "2981",
+      "imdb": "co0737690"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBeebies",
+    "machine-name": "CBeebies",
+    "providers": {
+      "tmdb": "166"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBS",
+    "machine-name": "CBS",
+    "providers": {
+      "tvdb": "56",
+      "tmdb": "16",
+      "imdb": "co0070627"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CBS All Access",
+    "machine-name": "CBS All Access",
+    "providers": {
+      "tvdb": "1085",
+      "tmdb": "1709",
+      "imdb": "co0598660"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Channel 4",
+    "machine-name": "Channel 4",
+    "providers": {
+      "tvdb": "60",
+      "tmdb": "26",
+      "imdb": "co0706824"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Channel 5",
+    "machine-name": "Channel 5",
+    "providers": {
+      "tvdb": "599",
+      "tmdb": "99",
+      "imdb": "co0003500"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Chiba TV",
+    "machine-name": "Chiba TV",
+    "providers": {
+      "tmdb": "663",
+      "imdb": "co0127196",
+      "anidb": "50693"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Cinemax",
+    "machine-name": "Cinemax",
+    "providers": {
+      "tvdb": "344",
+      "tmdb": "74097",
+      "imdb": "co0042496"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CITV",
+    "machine-name": "CITV",
+    "providers": {
+      "tvdb": "909",
+      "tmdb": "112",
+      "imdb": "co0662116"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CNN",
+    "machine-name": "CNN",
+    "providers": {
+      "tvdb": "72",
+      "tmdb": "59",
+      "imdb": "co1018324"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Comedy Central",
+    "machine-name": "Comedy Central",
+    "providers": {
+      "tvdb": "1300",
+      "tmdb": "47",
+      "imdb": "co0029768"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Crave",
+    "machine-name": "Crave",
+    "providers": {
+      "tvdb": "933",
+      "tmdb": "1344",
+      "imdb": "co0605105"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Crunchyroll",
+    "machine-name": "Crunchyroll",
+    "providers": {
+      "tvdb": "47648",
+      "tmdb": "198847",
+      "imdb": "co0251163",
+      "anidb": "43505"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "CTV",
+    "machine-name": "CTV",
+    "providers": {
+      "tvdb": "75",
+      "tmdb": "110",
+      "imdb": "co1018324"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Das Erste",
+    "machine-name": "Das Erste",
+    "providers": {
+      "tvdb": "77",
+      "tmdb": "308",
+      "imdb": "co0799614"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Dave",
+    "machine-name": "Dave",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "DC Universe",
+    "machine-name": "DC Universe",
+    "providers": {
+      "tmdb": "2243"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Decades",
+    "machine-name": "Decades",
+    "providers": {
+      "tmdb": "3072"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Discovery",
+    "machine-name": "Discovery",
+    "providers": {
+      "tmdb": "106"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Discovery Channel",
+    "machine-name": "Discovery Channel",
+    "providers": {
+      "tmdb": "7903"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Discovery Family",
+    "machine-name": "Discovery Family",
+    "providers": {
+      "tmdb": "1287"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Discovery Science",
+    "machine-name": "Discovery Science",
+    "providers": {
+      "tmdb": "8180"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "discovery+",
+    "machine-name": "discovery+",
+    "providers": {
+      "tmdb": "4741"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Disney Channel",
+    "machine-name": "Disney Channel",
+    "providers": {
+      "tmdb": "2534"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Disney Junior",
+    "machine-name": "Disney Junior",
+    "providers": {
+      "tmdb": "5526"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Disney XD",
+    "machine-name": "Disney XD",
+    "providers": {
+      "tmdb": "2324"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Disney+",
+    "machine-name": "Disney+",
+    "providers": {
+      "tmdb": "2739"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Disney+ Hotstar",
+    "machine-name": "Disney+ Hotstar",
+    "providers": {
+      "tmdb": "8516"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "DR1",
+    "machine-name": "DR1",
+    "providers": {
+      "tmdb": "391"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Dropout",
+    "machine-name": "Dropout",
+    "providers": {
+      "tmdb": "4551"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "E!",
+    "machine-name": "E!",
+    "providers": {
+      "tvdb": "87",
+      "tmdb": "76",
+      "imdb": "co0022548"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "E4",
+    "machine-name": "E4",
+    "providers": {
+      "tvdb": "89",
+      "tmdb": "136",
+      "imdb": "co0106185"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Ehime Broadcasting",
+    "machine-name": "Ehime Broadcasting",
+    "providers": {
+      "tvdb": "14695",
+      "tmdb": "6213",
+      "imdb": "co0340091"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "El Rey Network",
+    "machine-name": "El Rey Network",
+    "providers": {
+      "tmdb": "1122"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Eleven",
+    "machine-name": "Eleven",
+    "providers": {
+      "tvdb": "981",
+      "tmdb": "288"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Epix",
+    "machine-name": "Epix",
+    "providers": {
+      "tvdb": "943",
+      "tmdb": "6805",
+      "imdb": "co0287003"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ESPN",
+    "machine-name": "ESPN",
+    "providers": {
+      "tvdb": "92",
+      "tmdb": "17037",
+      "imdb": "co0756519"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Eurosport",
+    "machine-name": "Eurosport",
+    "providers": {
+      "tvdb": "99",
+      "tmdb": "675"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "F1TV",
+    "machine-name": "F1TV",
+    "providers": {
+      "tmdb": "5858"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Facebook Watch",
+    "machine-name": "Facebook Watch",
+    "providers": {
+      "tmdb": "2371"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Five",
+    "machine-name": "Five",
+    "providers": {
+      "tmdb": "99"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Food Network",
+    "machine-name": "Food Network",
+    "providers": {
+      "tmdb": "4638"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FOX",
+    "machine-name": "FOX",
+    "providers": {
+      "tmdb": "8003"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FOX (US)",
+    "machine-name": "FOX (US)",
+    "providers": {
+      "tmdb": "8003"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FOX España",
+    "machine-name": "FOX España",
+    "providers": {
+      "tmdb": "2145"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fox Family",
+    "machine-name": "Fox Family",
+    "providers": {
+      "tmdb": "8486"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fox Kids",
+    "machine-name": "Fox Kids",
+    "providers": {
+      "tmdb": "5996"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fox Sports",
+    "machine-name": "Fox Sports",
+    "providers": {
+      "tmdb": "338"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France 2",
+    "machine-name": "France 2",
+    "providers": {
+      "tmdb": "361"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France 24",
+    "machine-name": "France 24",
+    "providers": {
+      "tmdb": "8148"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France 3",
+    "machine-name": "France 3",
+    "providers": {
+      "tmdb": "249"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France 4",
+    "machine-name": "France 4",
+    "providers": {
+      "tmdb": "511"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France 5",
+    "machine-name": "France 5",
+    "providers": {
+      "tmdb": "255"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France Ô",
+    "machine-name": "France Ô",
+    "providers": {
+      "tmdb": "2984"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "France.tv",
+    "machine-name": "France.tv",
+    "providers": {
+      "tmdb": "3856"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Freeform",
+    "machine-name": "Freeform",
+    "providers": {
+      "tmdb": "1267"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Frontier Works",
+    "machine-name": "Frontier Works",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fuji TV",
+    "machine-name": "Fuji TV",
+    "providers": {
+      "tmdb": "1"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fukui TV",
+    "machine-name": "Fukui TV",
+    "providers": {
+      "tmdb": "3535"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fukushima TV",
+    "machine-name": "Fukushima TV",
+    "providers": {
+      "tmdb": "6666"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FUNimation",
+    "machine-name": "FUNimation",
+    "providers": {
+      "tmdb": "728"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FUNimation Entertainment",
+    "machine-name": "FUNimation Entertainment",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fuse",
+    "machine-name": "Fuse",
+    "providers": {
+      "tmdb": "113"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Fusion",
+    "machine-name": "Fusion",
+    "providers": {
+      "tmdb": "1769"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FX",
+    "machine-name": "FX",
+    "providers": {
+      "tmdb": "88"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FXM",
+    "machine-name": "FXM",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "FXX",
+    "machine-name": "FXX",
+    "providers": {
+      "tmdb": "1035"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "G4",
+    "machine-name": "G4",
+    "providers": {
+      "tmdb": "231"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "GameTap",
+    "machine-name": "GameTap",
+    "providers": {
+      "tmdb": "3435"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "GBS",
+    "machine-name": "GBS",
+    "providers": {
+      "tmdb": "1175",
+      "imdb": "co0332570"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Global TV",
+    "machine-name": "Global TV",
+    "providers": {
+      "tmdb": "218"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Gold",
+    "machine-name": "Gold",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "GoPlay",
+    "machine-name": "GoPlay",
+    "providers": {
+      "tmdb": "3754"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "GoPlay (BE)",
+    "machine-name": "GoPlay (BE)",
+    "providers": {
+      "tmdb": "3754"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Gulli",
+    "machine-name": "Gulli",
+    "providers": {
+      "tmdb": "2638",
+      "imdb": "co0259754"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Gunma TV",
+    "machine-name": "Gunma TV",
+    "providers": {
+      "tmdb": "343"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hallmark Channel",
+    "machine-name": "Hallmark Channel",
+    "providers": {
+      "tmdb": "384"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBC",
+    "machine-name": "HBC",
+    "providers": {
+      "tmdb": "3658",
+      "imdb": "co0330267"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO",
+    "machine-name": "HBO",
+    "providers": {
+      "tmdb": "3308"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Asia",
+    "machine-name": "HBO Asia",
+    "providers": {
+      "tmdb": "1303"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Canada",
+    "machine-name": "HBO Canada",
+    "providers": {
+      "tmdb": "1590"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO España",
+    "machine-name": "HBO España",
+    "providers": {
+      "tmdb": "3877"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Europe",
+    "machine-name": "HBO Europe",
+    "providers": {
+      "tmdb": "1129"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Latin America",
+    "machine-name": "HBO Latin America",
+    "providers": {
+      "tmdb": "1089"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Max",
+    "machine-name": "HBO Max",
+    "providers": {
+      "tmdb": "8304"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HBO Nordic",
+    "machine-name": "HBO Nordic",
+    "providers": {
+      "tmdb": "1062"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HGTV",
+    "machine-name": "HGTV",
+    "providers": {
+      "tmdb": "210"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HIDIVE",
+    "machine-name": "HIDIVE",
+    "providers": {
+      "tmdb": "7645"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "History",
+    "machine-name": "History",
+    "providers": {
+      "tmdb": "5433"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "History (CA)",
+    "machine-name": "History (CA)",
+    "providers": {
+      "tmdb": "5433"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hokkaido Cultural Broadcasting",
+    "machine-name": "Hokkaido Cultural Broadcasting",
+    "providers": {
+      "tmdb": "3721"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hokuriku Asahi Broadcasting",
+    "machine-name": "Hokuriku Asahi Broadcasting",
+    "providers": {
+      "tmdb": "6370",
+      "imdb": "co0345604"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hokuriku Broadcasting",
+    "machine-name": "Hokuriku Broadcasting",
+    "providers": {
+      "tmdb": "3973",
+      "imdb": "co0211487"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HOME",
+    "machine-name": "HOME",
+    "providers": {
+      "tmdb": "6288",
+      "imdb": "co0044142"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "HTB",
+    "machine-name": "HTB",
+    "providers": {
+      "tmdb": "12",
+      "imdb": "co0270269"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hub Network",
+    "machine-name": "Hub Network",
+    "providers": {
+      "tmdb": "518"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hulu",
+    "machine-name": "Hulu",
+    "providers": {
+      "tmdb": "1772"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Hulu Original Series",
+    "machine-name": "Hulu Original Series",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "i-Television",
+    "machine-name": "i-Television",
+    "providers": {
+      "tmdb": "3969",
+      "imdb": "co0161133"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "IBC Iwate Broadcasting",
+    "machine-name": "IBC Iwate Broadcasting",
+    "providers": {
+      "tmdb": "3969",
+      "imdb": "co0161133"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "IFC",
+    "machine-name": "IFC",
+    "providers": {
+      "tmdb": "124"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "IFC Films",
+    "machine-name": "IFC Films",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "IGN",
+    "machine-name": "IGN",
+    "providers": {
+      "tmdb": "8923"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Investigation Discovery",
+    "machine-name": "Investigation Discovery",
+    "providers": {
+      "tmdb": "4562"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ION Television",
+    "machine-name": "ION Television",
+    "providers": {
+      "tmdb": "293"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Ishikawa TV",
+    "machine-name": "Ishikawa TV",
+    "providers": {
+      "tmdb": "4841"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ITV",
+    "machine-name": "ITV",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ITV1",
+    "machine-name": "ITV1",
+    "providers": {
+      "tmdb": "9"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ITV2",
+    "machine-name": "ITV2",
+    "providers": {
+      "tmdb": "149"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Iwate Asahi TV",
+    "machine-name": "Iwate Asahi TV",
+    "providers": {
+      "tmdb": "6365",
+      "imdb": "co0225273"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Iwate Menkoi Television",
+    "machine-name": "Iwate Menkoi Television",
+    "providers": {
+      "tmdb": "4799"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Jetix",
+    "machine-name": "Jetix",
+    "providers": {
+      "tmdb": "2445",
+      "imdb": "co0679163"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kagoshima Broadcasting",
+    "machine-name": "Kagoshima Broadcasting",
+    "providers": {
+      "tmdb": "6290",
+      "imdb": "co0304080"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kanal 11",
+    "machine-name": "Kanal 11",
+    "providers": {
+      "tmdb": "4722"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kanal 5",
+    "machine-name": "Kanal 5",
+    "providers": {
+      "tmdb": "8403"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kanal 9",
+    "machine-name": "Kanal 9",
+    "providers": {
+      "tmdb": "4723"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kansai TV",
+    "machine-name": "Kansai TV",
+    "providers": {
+      "tmdb": "1163"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KBS Kyoto",
+    "machine-name": "KBS Kyoto",
+    "providers": {
+      "tmdb": "1137",
+      "imdb": "co0137142"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KFB",
+    "machine-name": "KFB",
+    "providers": {
+      "tmdb": "6285",
+      "imdb": "co0303993"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "khb",
+    "machine-name": "khb",
+    "providers": {
+      "tmdb": "6284",
+      "imdb": "co0280027"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KiKa",
+    "machine-name": "KiKa",
+    "providers": {
+      "tmdb": "239"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kochi Sun Sun Broadcasting",
+    "machine-name": "Kochi Sun Sun Broadcasting",
+    "providers": {
+      "tmdb": "4855"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KSB",
+    "machine-name": "KSB",
+    "providers": {
+      "tmdb": "6289",
+      "imdb": "co0304026"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KTS",
+    "machine-name": "KTS",
+    "providers": {
+      "tmdb": "6214"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kumamoto Asahi Broadcasting",
+    "machine-name": "Kumamoto Asahi Broadcasting",
+    "providers": {
+      "tmdb": "6374",
+      "imdb": "co0303995"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Kyushu Asahi Broadcasting",
+    "machine-name": "Kyushu Asahi Broadcasting",
+    "providers": {
+      "tmdb": "1278",
+      "imdb": "co0282488"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Lifetime",
+    "machine-name": "Lifetime",
+    "providers": {
+      "tmdb": "34",
+      "imdb": "co0006395"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "M6",
+    "machine-name": "M6",
+    "providers": {
+      "tmdb": "8038"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Manhattan Neighborhood Network",
+    "machine-name": "Manhattan Neighborhood Network",
+    "providers": {
+      "tmdb": "1768"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Max",
+    "machine-name": "Max",
+    "providers": {
+      "tmdb": "6783"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MBC",
+    "machine-name": "MBC",
+    "providers": {
+      "tmdb": "6175"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MBS",
+    "machine-name": "MBS",
+    "providers": {
+      "tmdb": "94"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MeTV",
+    "machine-name": "MeTV",
+    "providers": {
+      "tmdb": "3037"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MGM+",
+    "machine-name": "MGM+",
+    "providers": {
+      "tmdb": "8522"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Mondo TV",
+    "machine-name": "Mondo TV",
+    "providers": {
+      "tmdb": "4341"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Movistar+",
+    "machine-name": "Movistar+",
+    "providers": {
+      "tmdb": "6920"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MRT Miyazaki Broadcasting",
+    "machine-name": "MRT Miyazaki Broadcasting",
+    "providers": {
+      "tmdb": "6173",
+      "imdb": "co0161113"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MTV",
+    "machine-name": "MTV",
+    "providers": {
+      "tmdb": "8482"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MTV2",
+    "machine-name": "MTV2",
+    "providers": {
+      "tmdb": "17"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nagasaki Broadcasting Company",
+    "machine-name": "Nagasaki Broadcasting Company",
+    "providers": {
+      "tmdb": "2462",
+      "imdb": "co0521130"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nagasaki Culture Telecasting Corporation",
+    "machine-name": "Nagasaki Culture Telecasting Corporation",
+    "providers": {
+      "tmdb": "3756",
+      "imdb": "co0303920"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nagoya TV",
+    "machine-name": "Nagoya TV",
+    "providers": {
+      "tmdb": "576",
+      "imdb": "co0002299"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "National Educational Television",
+    "machine-name": "National Educational Television",
+    "providers": {
+      "tmdb": "120"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "National Geographic",
+    "machine-name": "National Geographic",
+    "providers": {
+      "tmdb": "6031"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "National Geographic Channel",
+    "machine-name": "National Geographic Channel",
+    "providers": {
+      "tmdb": "1756"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "National Geographic India",
+    "machine-name": "National Geographic India",
+    "providers": {
+      "tmdb": "4404"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NBC",
+    "machine-name": "NBC",
+    "providers": {
+      "tmdb": "6"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NBS",
+    "machine-name": "NBS",
+    "providers": {
+      "tmdb": "6210"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NDR",
+    "machine-name": "NDR",
+    "providers": {
+      "tmdb": "577"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Netflix",
+    "machine-name": "Netflix",
+    "providers": {
+      "tmdb": "213"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Network Ten",
+    "machine-name": "Network Ten",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NHK",
+    "machine-name": "NHK",
+    "providers": {
+      "tmdb": "2334"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NHK Educational TV",
+    "machine-name": "NHK Educational TV",
+    "providers": {
+      "tmdb": "622",
+      "imdb": "co0203796"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NHK G",
+    "machine-name": "NHK G",
+    "providers": {
+      "tmdb": "469"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NIB",
+    "machine-name": "NIB",
+    "providers": {
+      "tmdb": "6670"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nick Jr",
+    "machine-name": "Nick Jr",
+    "providers": {
+      "tmdb": "35"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nickelodeon",
+    "machine-name": "Nickelodeon",
+    "providers": {
+      "tmdb": "2314"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nicktoons",
+    "machine-name": "Nicktoons",
+    "providers": {
+      "tmdb": "224"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Niigata Television Network 21",
+    "machine-name": "Niigata Television Network 21",
+    "providers": {
+      "tmdb": "6270",
+      "imdb": "co0303996"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nine Network",
+    "machine-name": "Nine Network",
+    "providers": {
+      "tmdb": "66"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Nippon TV",
+    "machine-name": "Nippon TV",
+    "providers": {
+      "tmdb": "57"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Norsk Rikskringkasting (NRK)",
+    "machine-name": "Norsk Rikskringkasting (NRK)",
+    "providers": {
+      "tmdb": "5751"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NRK1",
+    "machine-name": "NRK1",
+    "providers": {
+      "tmdb": "379"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NRK2",
+    "machine-name": "NRK2",
+    "providers": {
+      "tmdb": "525"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NRK3",
+    "machine-name": "NRK3",
+    "providers": {
+      "tmdb": "843"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "NTV (JP)",
+    "machine-name": "NTV (JP)",
+    "providers": {
+      "tmdb": "5171"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "OHK",
+    "machine-name": "OHK",
+    "providers": {
+      "tmdb": "4851",
+      "imdb": "co0317297"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Oita Asahi Broadcasting",
+    "machine-name": "Oita Asahi Broadcasting",
+    "providers": {
+      "tmdb": "4794",
+      "imdb": "co0303947"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Oita Broadcasting System",
+    "machine-name": "Oita Broadcasting System",
+    "providers": {
+      "tmdb": "3974",
+      "imdb": "co0161083"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ORF",
+    "machine-name": "ORF",
+    "providers": {
+      "tvdb": "390",
+      "tmdb": "189",
+      "imdb": "co0204647"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "OUFtivi",
+    "machine-name": "OUFtivi",
+    "providers": {
+      "tvdb": "1126",
+      "tmdb": "2388",
+      "imdb": "co0521228"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Paramount Network",
+    "machine-name": "Paramount Network",
+    "providers": {
+      "tmdb": "2076"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Paramount+",
+    "machine-name": "Paramount+",
+    "providers": {
+      "tmdb": "4330"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "PBS",
+    "machine-name": "PBS",
+    "providers": {
+      "tmdb": "14"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "PBS Kids",
+    "machine-name": "PBS Kids",
+    "providers": {
+      "tmdb": "122"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Peacock",
+    "machine-name": "Peacock",
+    "providers": {
+      "tmdb": "3353"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Play4",
+    "machine-name": "Play4",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Playhouse Disney",
+    "machine-name": "Playhouse Disney",
+    "providers": {
+      "tmdb": "2991"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Pokémon TV",
+    "machine-name": "Pokémon TV",
+    "providers": {
+      "tmdb": "6747",
+      "imdb": "co0462508"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Pop",
+    "machine-name": "Pop",
+    "providers": {
+      "tmdb": "6242"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Prime Video",
+    "machine-name": "Prime Video",
+    "providers": {
+      "tvdb": "4226",
+      "tmdb": "1024",
+      "imdb": "co0476953"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Rai 2",
+    "machine-name": "Rai 2",
+    "providers": {
+      "tmdb": "236",
+      "imdb": "co0163343"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Rai Gulp",
+    "machine-name": "Rai Gulp",
+    "providers": {
+      "tmdb": "1422"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RBB Fernsehen",
+    "machine-name": "RBB Fernsehen",
+    "providers": {
+      "tmdb": "1220"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RCC",
+    "machine-name": "RCC",
+    "providers": {
+      "tmdb": "6172",
+      "imdb": "co0076301"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Really",
+    "machine-name": "Really",
+    "providers": {
+      "tmdb": "1892"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RKB",
+    "machine-name": "RKB",
+    "providers": {
+      "tmdb": "4748",
+      "imdb": "co0175795"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RKK Kumamoto Broadcasting",
+    "machine-name": "RKK Kumamoto Broadcasting",
+    "providers": {
+      "tmdb": "3705",
+      "imdb": "co0161064"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RSK",
+    "machine-name": "RSK",
+    "providers": {
+      "tmdb": "3977",
+      "imdb": "co0157117"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "RTL",
+    "machine-name": "RTL",
+    "providers": {
+      "tmdb": "7934"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Ryu-Q Asahi Broadcasting",
+    "machine-name": "Ryu-Q Asahi Broadcasting",
+    "providers": {
+      "tmdb": "6375",
+      "imdb": "co0225386"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Ryukyu Broadcasting",
+    "machine-name": "Ryukyu Broadcasting",
+    "providers": {
+      "tmdb": "4859",
+      "imdb": "co0322917"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "SAGA TV",
+    "machine-name": "SAGA TV",
+    "providers": {
+      "tmdb": "4839",
+      "imdb": "co0340061"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "SBC",
+    "machine-name": "SBC",
+    "providers": {
+      "tmdb": "1559",
+      "imdb": "co0157579"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "SBS",
+    "machine-name": "SBS",
+    "providers": {
+      "tmdb": "3970"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Science Channel",
+    "machine-name": "Science Channel",
+    "providers": {
+      "tmdb": "226"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Service Electric Network",
+    "machine-name": "Service Electric Network",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Seven Network",
+    "machine-name": "Seven Network",
+    "providers": {
+      "tmdb": "118"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Shizuoka Asahi TV",
+    "machine-name": "Shizuoka Asahi TV",
+    "providers": {
+      "tmdb": "6368",
+      "imdb": "co0304020"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Showcase",
+    "machine-name": "Showcase",
+    "providers": {
+      "tmdb": "7710"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Showtime",
+    "machine-name": "Showtime",
+    "providers": {
+      "tmdb": "67"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Shudder",
+    "machine-name": "Shudder",
+    "providers": {
+      "tmdb": "2949"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sjuan",
+    "machine-name": "Sjuan",
+    "providers": {
+      "tmdb": "854"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky",
+    "machine-name": "Sky",
+    "providers": {
+      "tmdb": "5136"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Atlantic",
+    "machine-name": "Sky Atlantic",
+    "providers": {
+      "tmdb": "5090"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Atlantic (UK)",
+    "machine-name": "Sky Atlantic (UK)",
+    "providers": {
+      "tmdb": "5090"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Deutschland",
+    "machine-name": "Sky Deutschland",
+    "providers": {
+      "tmdb": "5136"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Max",
+    "machine-name": "Sky Max",
+    "providers": {
+      "tmdb": "5237"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky One",
+    "machine-name": "Sky One",
+    "providers": {
+      "tmdb": "5059"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Showcase",
+    "machine-name": "Sky Showcase",
+    "providers": {
+      "tmdb": "7524",
+      "imdb": "co0878025"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sky Sports",
+    "machine-name": "Sky Sports",
+    "providers": {
+      "tmdb": "107"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Sony Liv",
+    "machine-name": "Sony Liv",
+    "providers": {
+      "tmdb": "2646"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Space",
+    "machine-name": "Space",
+    "providers": {
+      "tmdb": "170"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Spike",
+    "machine-name": "Spike",
+    "providers": {
+      "tmdb": "1735"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Spike TV",
+    "machine-name": "Spike TV",
+    "providers": {
+      "tmdb": "55"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Stan",
+    "machine-name": "Stan",
+    "providers": {
+      "tmdb": "1255"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Starz",
+    "machine-name": "Starz",
+    "providers": {
+      "tmdb": "318"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Studio Palette",
+    "machine-name": "Studio Palette",
+    "providers": {
+      "imdb": "co0521133"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "STV",
+    "machine-name": "STV",
+    "providers": {
+      "tmdb": "3698"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "SVT1",
+    "machine-name": "SVT1",
+    "providers": {
+      "tmdb": "356"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "SVT2",
+    "machine-name": "SVT2",
+    "providers": {
+      "tmdb": "258"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Syfy",
+    "machine-name": "Syfy",
+    "providers": {
+      "tmdb": "3701"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TBS",
+    "machine-name": "TBS",
+    "providers": {
+      "tmdb": "5012"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Telemundo",
+    "machine-name": "Telemundo",
+    "providers": {
+      "tmdb": "193"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Teletoon",
+    "machine-name": "Teletoon",
+    "providers": {
+      "tmdb": "83"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tencent Video",
+    "machine-name": "Tencent Video",
+    "providers": {
+      "tmdb": "2007"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TF1",
+    "machine-name": "TF1",
+    "providers": {
+      "tmdb": "290"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "The CW",
+    "machine-name": "The CW",
+    "providers": {
+      "tmdb": "71"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "The Roku Channel",
+    "machine-name": "The Roku Channel",
+    "providers": {
+      "tmdb": "4692"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "The WB",
+    "machine-name": "The WB",
+    "providers": {
+      "tmdb": "21"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "The Weather Channel",
+    "machine-name": "The Weather Channel",
+    "providers": {
+      "tmdb": "306"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TLC",
+    "machine-name": "TLC",
+    "providers": {
+      "tmdb": "6363"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TNK",
+    "machine-name": "TNK",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TNT",
+    "machine-name": "TNT",
+    "providers": {
+      "tmdb": "8114"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tochigi TV",
+    "machine-name": "Tochigi TV",
+    "providers": {
+      "tmdb": "2478",
+      "imdb": "co0353568"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tohoku Broadcasting",
+    "machine-name": "Tohoku Broadcasting",
+    "providers": {
+      "tmdb": "3979",
+      "imdb": "co0157146"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tokai Television Broadcasting",
+    "machine-name": "Tokai Television Broadcasting",
+    "providers": {
+      "tmdb": "879",
+      "imdb": "co0859436"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tokyo Broadcasting System",
+    "machine-name": "Tokyo Broadcasting System",
+    "providers": {
+      "tmdb": "160"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tokyo MX",
+    "machine-name": "Tokyo MX",
+    "providers": {
+      "tmdb": "614"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Toon Disney",
+    "machine-name": "Toon Disney",
+    "providers": {
+      "tmdb": "142"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Toonami",
+    "machine-name": "Toonami",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Travel",
+    "machine-name": "Travel",
+    "providers": {
+      "tmdb": "209"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Travel Channel",
+    "machine-name": "Travel Channel",
+    "providers": {
+      "tmdb": "209"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Treehouse TV",
+    "machine-name": "Treehouse TV",
+    "providers": {
+      "tmdb": "216"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "truTV",
+    "machine-name": "truTV",
+    "providers": {
+      "tmdb": "364"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TSC",
+    "machine-name": "TSC",
+    "providers": {
+      "tmdb": "2064",
+      "imdb": "co0190623"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Tulip Television",
+    "machine-name": "Tulip Television",
+    "providers": {
+      "tmdb": "896",
+      "imdb": "co0157483"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Turner Network Television (TNT)",
+    "machine-name": "Turner Network Television (TNT)",
+    "providers": {
+      "tvdb": "261",
+      "tmdb": "41",
+      "imdb": "co0009512"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Aichi",
+    "machine-name": "TV Aichi",
+    "providers": {
+      "tmdb": "252"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "tv asahi",
+    "machine-name": "tv asahi",
+    "providers": {
+      "tmdb": "103"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Hokkaido",
+    "machine-name": "TV Hokkaido",
+    "providers": {
+      "tmdb": "938"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Kochi Broadcasting",
+    "machine-name": "TV Kochi Broadcasting",
+    "providers": {
+      "tmdb": "4792",
+      "imdb": "co0521131"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Land",
+    "machine-name": "TV Land",
+    "providers": {
+      "tmdb": "397"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "machine-name": "TV Osaka",
+    "providers": {
+      "tmdb": "824"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Setouchi",
+    "machine-name": "TV Setouchi",
+    "providers": {
+      "tmdb": "2064"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Shizuoka",
+    "machine-name": "TV Shizuoka",
+    "providers": {
+      "tmdb": "5644",
+      "imdb": "co0920366"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "machine-name": "TV Tokyo",
+    "providers": {
+      "tmdb": "9080"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV Yamanashi",
+    "machine-name": "TV Yamanashi",
+    "providers": {
+      "tmdb": "6171",
+      "imdb": "co0269514"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV-U Fukushima",
+    "machine-name": "TV-U Fukushima",
+    "providers": {
+      "tmdb": "3975",
+      "imdb": "co0161117"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV-U Yamagata",
+    "machine-name": "TV-U Yamagata",
+    "providers": {
+      "tmdb": "3978",
+      "imdb": "co0161103"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV12",
+    "machine-name": "TV12",
+    "providers": {
+      "tmdb": "8868"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV3 Sverige",
+    "machine-name": "TV3 Sverige",
+    "providers": {
+      "tmdb": "457"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV4",
+    "machine-name": "TV4",
+    "providers": {
+      "tmdb": "8189"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV4 Plus",
+    "machine-name": "TV4 Plus",
+    "providers": {
+      "tmdb": "352",
+      "imdb": "co0148934"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV6",
+    "machine-name": "TV6",
+    "providers": {
+      "tmdb": "2977"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TV8",
+    "machine-name": "TV8",
+    "providers": {
+      "tmdb": "2702"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVh",
+    "machine-name": "TVh",
+    "providers": {
+      "tmdb": "938",
+      "imdb": "co0265377"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "tvk",
+    "machine-name": "tvk",
+    "providers": {
+      "tmdb": "792"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVNZ 1",
+    "machine-name": "TVNZ 1",
+    "providers": {
+      "tmdb": "1376"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVNZ 2",
+    "machine-name": "TVNZ 2",
+    "providers": {
+      "tmdb": "123"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVOntario",
+    "machine-name": "TVOntario",
+    "providers": {
+      "tmdb": "191"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVQ",
+    "machine-name": "TVQ",
+    "providers": {
+      "tmdb": "822"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "TVQ (Japan)",
+    "machine-name": "TVQ (Japan)",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "tys",
+    "machine-name": "tys",
+    "providers": {
+      "tmdb": "2461",
+      "imdb": "co0161107"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ufotable",
+    "machine-name": "ufotable",
+    "providers": {
+      "imdb": "co0161107"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Unis TV",
+    "machine-name": "Unis TV",
+    "providers": {
+      "tmdb": "2088"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Universal Kids",
+    "machine-name": "Universal Kids",
+    "providers": {
+      "tmdb": "2133"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Univision",
+    "machine-name": "Univision",
+    "providers": {
+      "tmdb": "28"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Unterföhring",
+    "machine-name": "Unterföhring",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "UPN",
+    "machine-name": "UPN",
+    "providers": {
+      "tmdb": "8709"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "USA",
+    "machine-name": "USA",
+    "providers": {
+      "tmdb": "30"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "USA Network",
+    "machine-name": "USA Network",
+    "providers": {
+      "tmdb": "30"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "VH1",
+    "machine-name": "VH1",
+    "providers": {
+      "tmdb": "2803"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Viaplay",
+    "machine-name": "Viaplay",
+    "providers": {
+      "tmdb": "8814"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Vice TV",
+    "machine-name": "Vice TV",
+    "providers": {
+      "tmdb": "3706"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Viceland",
+    "machine-name": "Viceland",
+    "providers": {
+      "tmdb": "8980"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "VOOT",
+    "machine-name": "VOOT",
+    "providers": {
+      "tmdb": "2532"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "VRT",
+    "machine-name": "VRT",
+    "providers": {
+      "tmdb": "4302"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "VRT MAX",
+    "machine-name": "VRT MAX",
+    "providers": {
+      "tmdb": "1977"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "vtm",
+    "machine-name": "vtm",
+    "providers": {
+      "tmdb": "556"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "VTM GO",
+    "machine-name": "VTM GO",
+    "providers": {
+      "tmdb": "5257"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Walt Disney Feature Animation",
+    "machine-name": "Walt Disney Feature Animation",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Walt Disney Television Animation",
+    "machine-name": "Walt Disney Television Animation",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Wanda Films",
+    "machine-name": "Wanda Films",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Warner Brothers",
+    "machine-name": "Warner Brothers",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Warner Independent Pictures",
+    "machine-name": "Warner Independent Pictures",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "WE tv",
+    "machine-name": "WE tv",
+    "providers": {
+      "tmdb": "448"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "WOWOW",
+    "machine-name": "WOWOW",
+    "providers": {
+      "tmdb": "172"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "WOWOW Prime",
+    "machine-name": "WOWOW Prime",
+    "providers": {
+      "tmdb": "172"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Yahoo! Screen",
+    "machine-name": "Yahoo! Screen",
+    "providers": {
+      "tmdb": "1059"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Yamagata TV",
+    "machine-name": "Yamagata TV",
+    "providers": {
+      "tmdb": "6367",
+      "imdb": "co0117315"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Yamaguchi Asahi Broadcasting",
+    "machine-name": "Yamaguchi Asahi Broadcasting",
+    "providers": {
+      "tmdb": "6373",
+      "imdb": "co0281484"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "YouTube",
+    "machine-name": "YouTube",
+    "providers": {
+      "tmdb": "247"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "YouTube Premium",
+    "machine-name": "YouTube Premium",
+    "providers": {
+      "tmdb": "1436"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "YTV",
+    "machine-name": "YTV",
+    "providers": {
+      "tmdb": "46"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ZDF",
+    "machine-name": "ZDF",
+    "providers": {
+      "tmdb": "31"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "ZDFneo",
+    "machine-name": "ZDFneo",
+    "providers": {
+      "tmdb": "1274"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "één",
+    "machine-name": "één",
+    "providers": {},
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  }
+]
