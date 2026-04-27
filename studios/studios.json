@@ -1224,27 +1224,6 @@
     }
   },
   {
-    "name": "BSS",
-    "machine-name": "BSS",
-    "providers": {
-      "tmdb": "3972"
-    },
-    "artwork": {
-      "primary": [
-        "svg",
-        "webp",
-        "jpg",
-        "png"
-      ],
-      "thumb": [
-        "svg",
-        "webp",
-        "jpg",
-        "png"
-      ]
-    }
-  },
-  {
     "name": "Broadcasting System of San-in",
     "machine-name": "Broadcasting System of San-in",
     "providers": {
@@ -1341,6 +1320,27 @@
     "providers": {
       "tmdb": "2460",
       "imdb": "co0157521"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "BSS",
+    "machine-name": "BSS",
+    "providers": {
+      "tmdb": "3972"
     },
     "artwork": {
       "primary": [
@@ -3635,6 +3635,27 @@
     }
   },
   {
+    "name": "IBC",
+    "machine-name": "IBC",
+    "providers": {
+      "tmdb": "3971"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
     "name": "IBC Iwate Broadcasting",
     "machine-name": "IBC Iwate Broadcasting",
     "providers": {
@@ -4079,10 +4100,52 @@
     }
   },
   {
+    "name": "Kids Station",
+    "machine-name": "Kids Station",
+    "providers": {
+      "tmdb": "610"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
     "name": "KiKa",
     "machine-name": "KiKa",
     "providers": {
       "tmdb": "239"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KKT",
+    "machine-name": "KKT",
+    "providers": {
+      "tmdb": "6671"
     },
     "artwork": {
       "primary": [
@@ -4169,6 +4232,27 @@
     "providers": {
       "tmdb": "6374",
       "imdb": "co0303995"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "KUTV",
+    "machine-name": "KUTV",
+    "providers": {
+      "tmdb": "4792"
     },
     "artwork": {
       "primary": [
@@ -4402,6 +4486,48 @@
     "machine-name": "Movistar+",
     "providers": {
       "tmdb": "6920"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MRO",
+    "machine-name": "MRO",
+    "providers": {
+      "tmdb": "3973"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "MRT",
+    "machine-name": "MRT",
+    "providers": {
+      "tmdb": "6173"
     },
     "artwork": {
       "primary": [
@@ -4969,6 +5095,27 @@
     }
   },
   {
+    "name": "NPR",
+    "machine-name": "NPR",
+    "providers": {
+      "tmdb": "1813"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
     "name": "NRK1",
     "machine-name": "NRK1",
     "providers": {
@@ -5190,6 +5337,27 @@
     "machine-name": "Paramount+",
     "providers": {
       "tmdb": "4330"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ],
+      "thumb": [
+        "svg",
+        "webp",
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  {
+    "name": "Paramount+ with Showtime",
+    "machine-name": "Paramount+ with Showtime",
+    "providers": {
+      "tmdb": "6631"
     },
     "artwork": {
       "primary": [
